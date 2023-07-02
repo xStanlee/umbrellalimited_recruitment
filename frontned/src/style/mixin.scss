@@ -1,0 +1,13 @@
+@mixin flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@mixin cell {
+    cursor: pointer;
+    width: 4rem;
+    height: 3rem;
+    border-right: solid 1px #ccc;
+    border-bottom: solid 1px #ccc;
+}
