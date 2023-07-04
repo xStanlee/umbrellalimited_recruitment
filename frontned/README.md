@@ -5,3 +5,17 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
+### Vite zamiast Webpacka
+
+Do pracy nad projektem uzylem Vite'a jako bundler'a zamiast Webpacka. Pozwala on nieco szybciej uruchomic projekt. Rozruch projektu nie odbiega od tego jak to wyglada na webPack'u 
+
+### FrontendApp
+
+```
+cd frontned
+npm install
+npm run dev
+```
+
+Zanim odpalimy aplikacje frontendowa musimy uruchomic serwer dostarczony przez team umbrellalimited. Instrukcja znajduje sie pod headerem Api.
