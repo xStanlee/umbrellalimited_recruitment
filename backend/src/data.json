@@ -1,0 +1,5226 @@
+{
+  "sourceCountries": [
+    "AT",
+    "BE",
+    "BG",
+    "CH",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IT",
+    "LT",
+    "LU",
+    "LV",
+    "MT",
+    "NL",
+    "PL",
+    "PT",
+    "RO",
+    "SE",
+    "SI",
+    "SK"
+  ],
+  "rates": [
+    {
+      "sourceCountry": "AT",
+      "destinationCountries": [
+        {
+          "id": 1,
+          "sourceCountry": "AT",
+          "destinationCountry": "AT",
+          "rate": 1.23
+        },
+        {
+          "id": 2,
+          "sourceCountry": "AT",
+          "destinationCountry": "BE",
+          "rate": 2.2
+        },
+        {
+          "id": 3,
+          "sourceCountry": "AT",
+          "destinationCountry": "BG",
+          "rate": 1.2
+        },
+        {
+          "id": 28,
+          "sourceCountry": "AT",
+          "destinationCountry": "CH",
+          "rate": 1.2
+        },
+        {
+          "id": 5,
+          "sourceCountry": "AT",
+          "destinationCountry": "CY",
+          "rate": 1.2
+        },
+        {
+          "id": 6,
+          "sourceCountry": "AT",
+          "destinationCountry": "CZ",
+          "rate": 1.2
+        },
+        {
+          "id": 11,
+          "sourceCountry": "AT",
+          "destinationCountry": "DE",
+          "rate": 1.2
+        },
+        {
+          "id": 7,
+          "sourceCountry": "AT",
+          "destinationCountry": "DK",
+          "rate": 1.2
+        },
+        {
+          "id": 8,
+          "sourceCountry": "AT",
+          "destinationCountry": "EE",
+          "rate": 1.2
+        },
+        {
+          "id": 26,
+          "sourceCountry": "AT",
+          "destinationCountry": "ES",
+          "rate": 1.2
+        },
+        {
+          "id": 9,
+          "sourceCountry": "AT",
+          "destinationCountry": "FI",
+          "rate": 1.2
+        },
+        {
+          "id": 10,
+          "sourceCountry": "AT",
+          "destinationCountry": "FR",
+          "rate": 1.2
+        },
+        {
+          "id": 29,
+          "sourceCountry": "AT",
+          "destinationCountry": "GB",
+          "rate": 1.2
+        },
+        {
+          "id": 12,
+          "sourceCountry": "AT",
+          "destinationCountry": "GR",
+          "rate": 1.2
+        },
+        {
+          "id": 4,
+          "sourceCountry": "AT",
+          "destinationCountry": "HR",
+          "rate": 1.2
+        },
+        {
+          "id": 13,
+          "sourceCountry": "AT",
+          "destinationCountry": "HU",
+          "rate": 1.2
+        },
+        {
+          "id": 16,
+          "sourceCountry": "AT",
+          "destinationCountry": "IE",
+          "rate": 1.2
+        },
+        {
+          "id": 14,
+          "sourceCountry": "AT",
+          "destinationCountry": "IT",
+          "rate": 1.2
+        },
+        {
+          "id": 17,
+          "sourceCountry": "AT",
+          "destinationCountry": "LT",
+          "rate": 1.2
+        },
+        {
+          "id": 18,
+          "sourceCountry": "AT",
+          "destinationCountry": "LU",
+          "rate": 1.2
+        },
+        {
+          "id": 15,
+          "sourceCountry": "AT",
+          "destinationCountry": "LV",
+          "rate": 1.2
+        },
+        {
+          "id": 19,
+          "sourceCountry": "AT",
+          "destinationCountry": "MT",
+          "rate": 1.2
+        },
+        {
+          "id": 20,
+          "sourceCountry": "AT",
+          "destinationCountry": "NL",
+          "rate": 1.2
+        },
+        {
+          "id": 21,
+          "sourceCountry": "AT",
+          "destinationCountry": "PL",
+          "rate": 1.2
+        },
+        {
+          "id": 22,
+          "sourceCountry": "AT",
+          "destinationCountry": "PT",
+          "rate": 1.2
+        },
+        {
+          "id": 23,
+          "sourceCountry": "AT",
+          "destinationCountry": "RO",
+          "rate": 1.2
+        },
+        {
+          "id": 27,
+          "sourceCountry": "AT",
+          "destinationCountry": "SE",
+          "rate": 1.2
+        },
+        {
+          "id": 25,
+          "sourceCountry": "AT",
+          "destinationCountry": "SI",
+          "rate": 1.2
+        },
+        {
+          "id": 24,
+          "sourceCountry": "AT",
+          "destinationCountry": "SK",
+          "rate": 1.2
+        }
+      ]
+    },
+    {
+      "sourceCountry": "BE",
+      "destinationCountries": [
+        {
+          "id": 30,
+          "sourceCountry": "BE",
+          "destinationCountry": "AT",
+          "rate": 1.2
+        },
+        {
+          "id": 31,
+          "sourceCountry": "BE",
+          "destinationCountry": "BE",
+          "rate": 7.7
+        },
+        {
+          "id": 32,
+          "sourceCountry": "BE",
+          "destinationCountry": "BG",
+          "rate": 1.2
+        },
+        {
+          "id": 57,
+          "sourceCountry": "BE",
+          "destinationCountry": "CH",
+          "rate": 6.4
+        },
+        {
+          "id": 34,
+          "sourceCountry": "BE",
+          "destinationCountry": "CY",
+          "rate": 1.2
+        },
+        {
+          "id": 35,
+          "sourceCountry": "BE",
+          "destinationCountry": "CZ",
+          "rate": 3.4
+        },
+        {
+          "id": 40,
+          "sourceCountry": "BE",
+          "destinationCountry": "DE",
+          "rate": 3.2
+        },
+        {
+          "id": 36,
+          "sourceCountry": "BE",
+          "destinationCountry": "DK",
+          "rate": 1.2
+        },
+        {
+          "id": 37,
+          "sourceCountry": "BE",
+          "destinationCountry": "EE",
+          "rate": 1.2
+        },
+        {
+          "id": 55,
+          "sourceCountry": "BE",
+          "destinationCountry": "ES",
+          "rate": 1.2
+        },
+        {
+          "id": 38,
+          "sourceCountry": "BE",
+          "destinationCountry": "FI",
+          "rate": 1.2
+        },
+        {
+          "id": 39,
+          "sourceCountry": "BE",
+          "destinationCountry": "FR",
+          "rate": 3.1
+        },
+        {
+          "id": 58,
+          "sourceCountry": "BE",
+          "destinationCountry": "GB",
+          "rate": 1.2
+        },
+        {
+          "id": 41,
+          "sourceCountry": "BE",
+          "destinationCountry": "GR",
+          "rate": 1.2
+        },
+        {
+          "id": 33,
+          "sourceCountry": "BE",
+          "destinationCountry": "HR",
+          "rate": 1.2
+        },
+        {
+          "id": 42,
+          "sourceCountry": "BE",
+          "destinationCountry": "HU",
+          "rate": 1.2
+        },
+        {
+          "id": 45,
+          "sourceCountry": "BE",
+          "destinationCountry": "IE",
+          "rate": 1.2
+        },
+        {
+          "id": 43,
+          "sourceCountry": "BE",
+          "destinationCountry": "IT",
+          "rate": 3.9
+        },
+        {
+          "id": 46,
+          "sourceCountry": "BE",
+          "destinationCountry": "LT",
+          "rate": 1.2
+        },
+        {
+          "id": 47,
+          "sourceCountry": "BE",
+          "destinationCountry": "LU",
+          "rate": 2.9
+        },
+        {
+          "id": 44,
+          "sourceCountry": "BE",
+          "destinationCountry": "LV",
+          "rate": 1.2
+        },
+        {
+          "id": 48,
+          "sourceCountry": "BE",
+          "destinationCountry": "MT",
+          "rate": 1.2
+        },
+        {
+          "id": 49,
+          "sourceCountry": "BE",
+          "destinationCountry": "NL",
+          "rate": 5.8
+        },
+        {
+          "id": 50,
+          "sourceCountry": "BE",
+          "destinationCountry": "PL",
+          "rate": 2.1
+        },
+        {
+          "id": 51,
+          "sourceCountry": "BE",
+          "destinationCountry": "PT",
+          "rate": 1.2
+        },
+        {
+          "id": 52,
+          "sourceCountry": "BE",
+          "destinationCountry": "RO",
+          "rate": 1.2
+        },
+        {
+          "id": 56,
+          "sourceCountry": "BE",
+          "destinationCountry": "SE",
+          "rate": 1.2
+        },
+        {
+          "id": 54,
+          "sourceCountry": "BE",
+          "destinationCountry": "SI",
+          "rate": 1.2
+        },
+        {
+          "id": 53,
+          "sourceCountry": "BE",
+          "destinationCountry": "SK",
+          "rate": 1.2
+        }
+      ]
+    },
+    {
+      "sourceCountry": "BG",
+      "destinationCountries": [
+        {
+          "id": 59,
+          "sourceCountry": "BG",
+          "destinationCountry": "AT",
+          "rate": 1.2
+        },
+        {
+          "id": 60,
+          "sourceCountry": "BG",
+          "destinationCountry": "BE",
+          "rate": 1.2
+        },
+        {
+          "id": 61,
+          "sourceCountry": "BG",
+          "destinationCountry": "BG",
+          "rate": 1.2
+        },
+        {
+          "id": 86,
+          "sourceCountry": "BG",
+          "destinationCountry": "CH",
+          "rate": 1.2
+        },
+        {
+          "id": 63,
+          "sourceCountry": "BG",
+          "destinationCountry": "CY",
+          "rate": 1.2
+        },
+        {
+          "id": 64,
+          "sourceCountry": "BG",
+          "destinationCountry": "CZ",
+          "rate": 1.2
+        },
+        {
+          "id": 69,
+          "sourceCountry": "BG",
+          "destinationCountry": "DE",
+          "rate": 1.2
+        },
+        {
+          "id": 65,
+          "sourceCountry": "BG",
+          "destinationCountry": "DK",
+          "rate": 1.2
+        },
+        {
+          "id": 66,
+          "sourceCountry": "BG",
+          "destinationCountry": "EE",
+          "rate": 1.2
+        },
+        {
+          "id": 84,
+          "sourceCountry": "BG",
+          "destinationCountry": "ES",
+          "rate": 1.2
+        },
+        {
+          "id": 67,
+          "sourceCountry": "BG",
+          "destinationCountry": "FI",
+          "rate": 1.2
+        },
+        {
+          "id": 68,
+          "sourceCountry": "BG",
+          "destinationCountry": "FR",
+          "rate": 1.2
+        },
+        {
+          "id": 87,
+          "sourceCountry": "BG",
+          "destinationCountry": "GB",
+          "rate": 1.2
+        },
+        {
+          "id": 70,
+          "sourceCountry": "BG",
+          "destinationCountry": "GR",
+          "rate": 1.2
+        },
+        {
+          "id": 62,
+          "sourceCountry": "BG",
+          "destinationCountry": "HR",
+          "rate": 1.2
+        },
+        {
+          "id": 71,
+          "sourceCountry": "BG",
+          "destinationCountry": "HU",
+          "rate": 1.2
+        },
+        {
+          "id": 74,
+          "sourceCountry": "BG",
+          "destinationCountry": "IE",
+          "rate": 1.2
+        },
+        {
+          "id": 72,
+          "sourceCountry": "BG",
+          "destinationCountry": "IT",
+          "rate": 1.2
+        },
+        {
+          "id": 75,
+          "sourceCountry": "BG",
+          "destinationCountry": "LT",
+          "rate": 1.2
+        },
+        {
+          "id": 76,
+          "sourceCountry": "BG",
+          "destinationCountry": "LU",
+          "rate": 1.2
+        },
+        {
+          "id": 73,
+          "sourceCountry": "BG",
+          "destinationCountry": "LV",
+          "rate": 1.2
+        },
+        {
+          "id": 77,
+          "sourceCountry": "BG",
+          "destinationCountry": "MT",
+          "rate": 1.2
+        },
+        {
+          "id": 78,
+          "sourceCountry": "BG",
+          "destinationCountry": "NL",
+          "rate": 1.2
+        },
+        {
+          "id": 79,
+          "sourceCountry": "BG",
+          "destinationCountry": "PL",
+          "rate": 1.2
+        },
+        {
+          "id": 80,
+          "sourceCountry": "BG",
+          "destinationCountry": "PT",
+          "rate": 1.2
+        },
+        {
+          "id": 81,
+          "sourceCountry": "BG",
+          "destinationCountry": "RO",
+          "rate": 1.2
+        },
+        {
+          "id": 85,
+          "sourceCountry": "BG",
+          "destinationCountry": "SE",
+          "rate": 1.2
+        },
+        {
+          "id": 83,
+          "sourceCountry": "BG",
+          "destinationCountry": "SI",
+          "rate": 1.2
+        },
+        {
+          "id": 82,
+          "sourceCountry": "BG",
+          "destinationCountry": "SK",
+          "rate": 1.2
+        }
+      ]
+    },
+    {
+      "sourceCountry": "CH",
+      "destinationCountries": [
+        {
+          "id": 784,
+          "sourceCountry": "CH",
+          "destinationCountry": "AT",
+          "rate": 1.2
+        },
+        {
+          "id": 785,
+          "sourceCountry": "CH",
+          "destinationCountry": "BE",
+          "rate": 1.2
+        },
+        {
+          "id": 786,
+          "sourceCountry": "CH",
+          "destinationCountry": "BG",
+          "rate": 1.2
+        },
+        {
+          "id": 811,
+          "sourceCountry": "CH",
+          "destinationCountry": "CH",
+          "rate": 1.2
+        },
+        {
+          "id": 788,
+          "sourceCountry": "CH",
+          "destinationCountry": "CY",
+          "rate": 1.2
+        },
+        {
+          "id": 789,
+          "sourceCountry": "CH",
+          "destinationCountry": "CZ",
+          "rate": 1.2
+        },
+        {
+          "id": 794,
+          "sourceCountry": "CH",
+          "destinationCountry": "DE",
+          "rate": 1.2
+        },
+        {
+          "id": 790,
+          "sourceCountry": "CH",
+          "destinationCountry": "DK",
+          "rate": 1.2
+        },
+        {
+          "id": 791,
+          "sourceCountry": "CH",
+          "destinationCountry": "EE",
+          "rate": 1.2
+        },
+        {
+          "id": 809,
+          "sourceCountry": "CH",
+          "destinationCountry": "ES",
+          "rate": 1.2
+        },
+        {
+          "id": 792,
+          "sourceCountry": "CH",
+          "destinationCountry": "FI",
+          "rate": 1.2
+        },
+        {
+          "id": 793,
+          "sourceCountry": "CH",
+          "destinationCountry": "FR",
+          "rate": 1.2
+        },
+        {
+          "id": 812,
+          "sourceCountry": "CH",
+          "destinationCountry": "GB",
+          "rate": 1.2
+        },
+        {
+          "id": 795,
+          "sourceCountry": "CH",
+          "destinationCountry": "GR",
+          "rate": 1.2
+        },
+        {
+          "id": 787,
+          "sourceCountry": "CH",
+          "destinationCountry": "HR",
+          "rate": 1.2
+        },
+        {
+          "id": 796,
+          "sourceCountry": "CH",
+          "destinationCountry": "HU",
+          "rate": 1.2
+        },
+        {
+          "id": 799,
+          "sourceCountry": "CH",
+          "destinationCountry": "IE",
+          "rate": 1.2
+        },
+        {
+          "id": 797,
+          "sourceCountry": "CH",
+          "destinationCountry": "IT",
+          "rate": 1.2
+        },
+        {
+          "id": 800,
+          "sourceCountry": "CH",
+          "destinationCountry": "LT",
+          "rate": 1.2
+        },
+        {
+          "id": 801,
+          "sourceCountry": "CH",
+          "destinationCountry": "LU",
+          "rate": 1.2
+        },
+        {
+          "id": 798,
+          "sourceCountry": "CH",
+          "destinationCountry": "LV",
+          "rate": 1.2
+        },
+        {
+          "id": 802,
+          "sourceCountry": "CH",
+          "destinationCountry": "MT",
+          "rate": 1.2
+        },
+        {
+          "id": 803,
+          "sourceCountry": "CH",
+          "destinationCountry": "NL",
+          "rate": 1.2
+        },
+        {
+          "id": 804,
+          "sourceCountry": "CH",
+          "destinationCountry": "PL",
+          "rate": 1.2
+        },
+        {
+          "id": 805,
+          "sourceCountry": "CH",
+          "destinationCountry": "PT",
+          "rate": 1.2
+        },
+        {
+          "id": 806,
+          "sourceCountry": "CH",
+          "destinationCountry": "RO",
+          "rate": 1.2
+        },
+        {
+          "id": 810,
+          "sourceCountry": "CH",
+          "destinationCountry": "SE",
+          "rate": 1.2
+        },
+        {
+          "id": 808,
+          "sourceCountry": "CH",
+          "destinationCountry": "SI",
+          "rate": 1.2
+        },
+        {
+          "id": 807,
+          "sourceCountry": "CH",
+          "destinationCountry": "SK",
+          "rate": 1.2
+        }
+      ]
+    },
+    {
+      "sourceCountry": "CY",
+      "destinationCountries": [
+        {
+          "id": 117,
+          "sourceCountry": "CY",
+          "destinationCountry": "AT",
+          "rate": 1.2
+        },
+        {
+          "id": 118,
+          "sourceCountry": "CY",
+          "destinationCountry": "BE",
+          "rate": 1.2
+        },
+        {
+          "id": 119,
+          "sourceCountry": "CY",
+          "destinationCountry": "BG",
+          "rate": 1.2
+        },
+        {
+          "id": 144,
+          "sourceCountry": "CY",
+          "destinationCountry": "CH",
+          "rate": 1.2
+        },
+        {
+          "id": 121,
+          "sourceCountry": "CY",
+          "destinationCountry": "CY",
+          "rate": 1.2
+        },
+        {
+          "id": 122,
+          "sourceCountry": "CY",
+          "destinationCountry": "CZ",
+          "rate": 1.2
+        },
+        {
+          "id": 127,
+          "sourceCountry": "CY",
+          "destinationCountry": "DE",
+          "rate": 1.2
+        },
+        {
+          "id": 123,
+          "sourceCountry": "CY",
+          "destinationCountry": "DK",
+          "rate": 1.2
+        },
+        {
+          "id": 124,
+          "sourceCountry": "CY",
+          "destinationCountry": "EE",
+          "rate": 1.2
+        },
+        {
+          "id": 142,
+          "sourceCountry": "CY",
+          "destinationCountry": "ES",
+          "rate": 1.2
+        },
+        {
+          "id": 125,
+          "sourceCountry": "CY",
+          "destinationCountry": "FI",
+          "rate": 1.2
+        },
+        {
+          "id": 126,
+          "sourceCountry": "CY",
+          "destinationCountry": "FR",
+          "rate": 1.2
+        },
+        {
+          "id": 145,
+          "sourceCountry": "CY",
+          "destinationCountry": "GB",
+          "rate": 1.2
+        },
+        {
+          "id": 128,
+          "sourceCountry": "CY",
+          "destinationCountry": "GR",
+          "rate": 1.2
+        },
+        {
+          "id": 120,
+          "sourceCountry": "CY",
+          "destinationCountry": "HR",
+          "rate": 1.2
+        },
+        {
+          "id": 129,
+          "sourceCountry": "CY",
+          "destinationCountry": "HU",
+          "rate": 1.2
+        },
+        {
+          "id": 132,
+          "sourceCountry": "CY",
+          "destinationCountry": "IE",
+          "rate": 1.2
+        },
+        {
+          "id": 130,
+          "sourceCountry": "CY",
+          "destinationCountry": "IT",
+          "rate": 1.2
+        },
+        {
+          "id": 133,
+          "sourceCountry": "CY",
+          "destinationCountry": "LT",
+          "rate": 1.2
+        },
+        {
+          "id": 134,
+          "sourceCountry": "CY",
+          "destinationCountry": "LU",
+          "rate": 1.2
+        },
+        {
+          "id": 131,
+          "sourceCountry": "CY",
+          "destinationCountry": "LV",
+          "rate": 1.2
+        },
+        {
+          "id": 135,
+          "sourceCountry": "CY",
+          "destinationCountry": "MT",
+          "rate": 1.2
+        },
+        {
+          "id": 136,
+          "sourceCountry": "CY",
+          "destinationCountry": "NL",
+          "rate": 1.2
+        },
+        {
+          "id": 137,
+          "sourceCountry": "CY",
+          "destinationCountry": "PL",
+          "rate": 1.2
+        },
+        {
+          "id": 138,
+          "sourceCountry": "CY",
+          "destinationCountry": "PT",
+          "rate": 1.2
+        },
+        {
+          "id": 139,
+          "sourceCountry": "CY",
+          "destinationCountry": "RO",
+          "rate": 1.2
+        },
+        {
+          "id": 143,
+          "sourceCountry": "CY",
+          "destinationCountry": "SE",
+          "rate": 1.2
+        },
+        {
+          "id": 141,
+          "sourceCountry": "CY",
+          "destinationCountry": "SI",
+          "rate": 1.2
+        },
+        {
+          "id": 140,
+          "sourceCountry": "CY",
+          "destinationCountry": "SK",
+          "rate": 1.2
+        }
+      ]
+    },
+    {
+      "sourceCountry": "CZ",
+      "destinationCountries": [
+        {
+          "id": 146,
+          "sourceCountry": "CZ",
+          "destinationCountry": "AT",
+          "rate": 1.2
+        },
+        {
+          "id": 147,
+          "sourceCountry": "CZ",
+          "destinationCountry": "BE",
+          "rate": 3.4
+        },
+        {
+          "id": 148,
+          "sourceCountry": "CZ",
+          "destinationCountry": "BG",
+          "rate": 1.2
+        },
+        {
+          "id": 173,
+          "sourceCountry": "CZ",
+          "destinationCountry": "CH",
+          "rate": 4.4
+        },
+        {
+          "id": 150,
+          "sourceCountry": "CZ",
+          "destinationCountry": "CY",
+          "rate": 1.2
+        },
+        {
+          "id": 151,
+          "sourceCountry": "CZ",
+          "destinationCountry": "CZ",
+          "rate": 2.6
+        },
+        {
+          "id": 156,
+          "sourceCountry": "CZ",
+          "destinationCountry": "DE",
+          "rate": 3.9
+        },
+        {
+          "id": 152,
+          "sourceCountry": "CZ",
+          "destinationCountry": "DK",
+          "rate": 4.2
+        },
+        {
+          "id": 153,
+          "sourceCountry": "CZ",
+          "destinationCountry": "EE",
+          "rate": 1.2
+        },
+        {
+          "id": 171,
+          "sourceCountry": "CZ",
+          "destinationCountry": "ES",
+          "rate": 1.9
+        },
+        {
+          "id": 154,
+          "sourceCountry": "CZ",
+          "destinationCountry": "FI",
+          "rate": 1.2
+        },
+        {
+          "id": 155,
+          "sourceCountry": "CZ",
+          "destinationCountry": "FR",
+          "rate": 3.7
+        },
+        {
+          "id": 174,
+          "sourceCountry": "CZ",
+          "destinationCountry": "GB",
+          "rate": 1.2
+        },
+        {
+          "id": 157,
+          "sourceCountry": "CZ",
+          "destinationCountry": "GR",
+          "rate": 1.2
+        },
+        {
+          "id": 149,
+          "sourceCountry": "CZ",
+          "destinationCountry": "HR",
+          "rate": 4.6
+        },
+        {
+          "id": 158,
+          "sourceCountry": "CZ",
+          "destinationCountry": "HU",
+          "rate": 4.1
+        },
+        {
+          "id": 161,
+          "sourceCountry": "CZ",
+          "destinationCountry": "IE",
+          "rate": 1.2
+        },
+        {
+          "id": 159,
+          "sourceCountry": "CZ",
+          "destinationCountry": "IT",
+          "rate": 3
+        },
+        {
+          "id": 162,
+          "sourceCountry": "CZ",
+          "destinationCountry": "LT",
+          "rate": 1.2
+        },
+        {
+          "id": 163,
+          "sourceCountry": "CZ",
+          "destinationCountry": "LU",
+          "rate": 1.2
+        },
+        {
+          "id": 160,
+          "sourceCountry": "CZ",
+          "destinationCountry": "LV",
+          "rate": 1.2
+        },
+        {
+          "id": 164,
+          "sourceCountry": "CZ",
+          "destinationCountry": "MT",
+          "rate": 1.2
+        },
+        {
+          "id": 165,
+          "sourceCountry": "CZ",
+          "destinationCountry": "NL",
+          "rate": 3.8
+        },
+        {
+          "id": 166,
+          "sourceCountry": "CZ",
+          "destinationCountry": "PL",
+          "rate": 3
+        },
+        {
+          "id": 167,
+          "sourceCountry": "CZ",
+          "destinationCountry": "PT",
+          "rate": 1.9
+        },
+        {
+          "id": 168,
+          "sourceCountry": "CZ",
+          "destinationCountry": "RO",
+          "rate": 1.2
+        },
+        {
+          "id": 172,
+          "sourceCountry": "CZ",
+          "destinationCountry": "SE",
+          "rate": 1.2
+        },
+        {
+          "id": 170,
+          "sourceCountry": "CZ",
+          "destinationCountry": "SI",
+          "rate": 4.3
+        },
+        {
+          "id": 169,
+          "sourceCountry": "CZ",
+          "destinationCountry": "SK",
+          "rate": 1.2
+        }
+      ]
+    },
+    {
+      "sourceCountry": "DE",
+      "destinationCountries": [
+        {
+          "id": 291,
+          "sourceCountry": "DE",
+          "destinationCountry": "AT",
+          "rate": 4.1
+        },
+        {
+          "id": 292,
+          "sourceCountry": "DE",
+          "destinationCountry": "BE",
+          "rate": 3.9
+        },
+        {
+          "id": 293,
+          "sourceCountry": "DE",
+          "destinationCountry": "BG",
+          "rate": 1.2
+        },
+        {
+          "id": 318,
+          "sourceCountry": "DE",
+          "destinationCountry": "CH",
+          "rate": 8.4
+        },
+        {
+          "id": 295,
+          "sourceCountry": "DE",
+          "destinationCountry": "CY",
+          "rate": 1.2
+        },
+        {
+          "id": 296,
+          "sourceCountry": "DE",
+          "destinationCountry": "CZ",
+          "rate": 3
+        },
+        {
+          "id": 301,
+          "sourceCountry": "DE",
+          "destinationCountry": "DE",
+          "rate": 3.4
+        },
+        {
+          "id": 297,
+          "sourceCountry": "DE",
+          "destinationCountry": "DK",
+          "rate": 3
+        },
+        {
+          "id": 298,
+          "sourceCountry": "DE",
+          "destinationCountry": "EE",
+          "rate": 1.2
+        },
+        {
+          "id": 316,
+          "sourceCountry": "DE",
+          "destinationCountry": "ES",
+          "rate": 2.9
+        },
+        {
+          "id": 299,
+          "sourceCountry": "DE",
+          "destinationCountry": "FI",
+          "rate": 1.2
+        },
+        {
+          "id": 300,
+          "sourceCountry": "DE",
+          "destinationCountry": "FR",
+          "rate": 3.2
+        },
+        {
+          "id": 319,
+          "sourceCountry": "DE",
+          "destinationCountry": "GB",
+          "rate": 1.2
+        },
+        {
+          "id": 302,
+          "sourceCountry": "DE",
+          "destinationCountry": "GR",
+          "rate": 1.2
+        },
+        {
+          "id": 294,
+          "sourceCountry": "DE",
+          "destinationCountry": "HR",
+          "rate": 1.2
+        },
+        {
+          "id": 303,
+          "sourceCountry": "DE",
+          "destinationCountry": "HU",
+          "rate": 2.7
+        },
+        {
+          "id": 306,
+          "sourceCountry": "DE",
+          "destinationCountry": "IE",
+          "rate": 1.2
+        },
+        {
+          "id": 304,
+          "sourceCountry": "DE",
+          "destinationCountry": "IT",
+          "rate": 5.2
+        },
+        {
+          "id": 307,
+          "sourceCountry": "DE",
+          "destinationCountry": "LT",
+          "rate": 1.2
+        },
+        {
+          "id": 308,
+          "sourceCountry": "DE",
+          "destinationCountry": "LU",
+          "rate": 3.5
+        },
+        {
+          "id": 305,
+          "sourceCountry": "DE",
+          "destinationCountry": "LV",
+          "rate": 1.2
+        },
+        {
+          "id": 309,
+          "sourceCountry": "DE",
+          "destinationCountry": "MT",
+          "rate": 1.2
+        },
+        {
+          "id": 310,
+          "sourceCountry": "DE",
+          "destinationCountry": "NL",
+          "rate": 4
+        },
+        {
+          "id": 311,
+          "sourceCountry": "DE",
+          "destinationCountry": "PL",
+          "rate": 2.3
+        },
+        {
+          "id": 312,
+          "sourceCountry": "DE",
+          "destinationCountry": "PT",
+          "rate": 1.2
+        },
+        {
+          "id": 313,
+          "sourceCountry": "DE",
+          "destinationCountry": "RO",
+          "rate": 1.2
+        },
+        {
+          "id": 317,
+          "sourceCountry": "DE",
+          "destinationCountry": "SE",
+          "rate": 1.2
+        },
+        {
+          "id": 315,
+          "sourceCountry": "DE",
+          "destinationCountry": "SI",
+          "rate": 4.3
+        },
+        {
+          "id": 314,
+          "sourceCountry": "DE",
+          "destinationCountry": "SK",
+          "rate": 2.5
+        }
+      ]
+    },
+    {
+      "sourceCountry": "DK",
+      "destinationCountries": [
+        {
+          "id": 175,
+          "sourceCountry": "DK",
+          "destinationCountry": "AT",
+          "rate": 1.2
+        },
+        {
+          "id": 176,
+          "sourceCountry": "DK",
+          "destinationCountry": "BE",
+          "rate": 1.2
+        },
+        {
+          "id": 177,
+          "sourceCountry": "DK",
+          "destinationCountry": "BG",
+          "rate": 1.2
+        },
+        {
+          "id": 202,
+          "sourceCountry": "DK",
+          "destinationCountry": "CH",
+          "rate": 1.2
+        },
+        {
+          "id": 179,
+          "sourceCountry": "DK",
+          "destinationCountry": "CY",
+          "rate": 1.2
+        },
+        {
+          "id": 180,
+          "sourceCountry": "DK",
+          "destinationCountry": "CZ",
+          "rate": 1.2
+        },
+        {
+          "id": 185,
+          "sourceCountry": "DK",
+          "destinationCountry": "DE",
+          "rate": 3.4
+        },
+        {
+          "id": 181,
+          "sourceCountry": "DK",
+          "destinationCountry": "DK",
+          "rate": 1.2
+        },
+        {
+          "id": 182,
+          "sourceCountry": "DK",
+          "destinationCountry": "EE",
+          "rate": 1.2
+        },
+        {
+          "id": 200,
+          "sourceCountry": "DK",
+          "destinationCountry": "ES",
+          "rate": 1.2
+        },
+        {
+          "id": 183,
+          "sourceCountry": "DK",
+          "destinationCountry": "FI",
+          "rate": 1.2
+        },
+        {
+          "id": 184,
+          "sourceCountry": "DK",
+          "destinationCountry": "FR",
+          "rate": 3.5
+        },
+        {
+          "id": 203,
+          "sourceCountry": "DK",
+          "destinationCountry": "GB",
+          "rate": 1.2
+        },
+        {
+          "id": 186,
+          "sourceCountry": "DK",
+          "destinationCountry": "GR",
+          "rate": 1.2
+        },
+        {
+          "id": 178,
+          "sourceCountry": "DK",
+          "destinationCountry": "HR",
+          "rate": 1.2
+        },
+        {
+          "id": 187,
+          "sourceCountry": "DK",
+          "destinationCountry": "HU",
+          "rate": 1.2
+        },
+        {
+          "id": 190,
+          "sourceCountry": "DK",
+          "destinationCountry": "IE",
+          "rate": 1.2
+        },
+        {
+          "id": 188,
+          "sourceCountry": "DK",
+          "destinationCountry": "IT",
+          "rate": 1.2
+        },
+        {
+          "id": 191,
+          "sourceCountry": "DK",
+          "destinationCountry": "LT",
+          "rate": 1.2
+        },
+        {
+          "id": 192,
+          "sourceCountry": "DK",
+          "destinationCountry": "LU",
+          "rate": 1.2
+        },
+        {
+          "id": 189,
+          "sourceCountry": "DK",
+          "destinationCountry": "LV",
+          "rate": 1.2
+        },
+        {
+          "id": 193,
+          "sourceCountry": "DK",
+          "destinationCountry": "MT",
+          "rate": 1.2
+        },
+        {
+          "id": 194,
+          "sourceCountry": "DK",
+          "destinationCountry": "NL",
+          "rate": 1.2
+        },
+        {
+          "id": 195,
+          "sourceCountry": "DK",
+          "destinationCountry": "PL",
+          "rate": 1.2
+        },
+        {
+          "id": 196,
+          "sourceCountry": "DK",
+          "destinationCountry": "PT",
+          "rate": 1.2
+        },
+        {
+          "id": 197,
+          "sourceCountry": "DK",
+          "destinationCountry": "RO",
+          "rate": 1.2
+        },
+        {
+          "id": 201,
+          "sourceCountry": "DK",
+          "destinationCountry": "SE",
+          "rate": 1.2
+        },
+        {
+          "id": 199,
+          "sourceCountry": "DK",
+          "destinationCountry": "SI",
+          "rate": 1.2
+        },
+        {
+          "id": 198,
+          "sourceCountry": "DK",
+          "destinationCountry": "SK",
+          "rate": 1.2
+        }
+      ]
+    },
+    {
+      "sourceCountry": "EE",
+      "destinationCountries": [
+        {
+          "id": 204,
+          "sourceCountry": "EE",
+          "destinationCountry": "AT",
+          "rate": 1.2
+        },
+        {
+          "id": 205,
+          "sourceCountry": "EE",
+          "destinationCountry": "BE",
+          "rate": 2.2
+        },
+        {
+          "id": 206,
+          "sourceCountry": "EE",
+          "destinationCountry": "BG",
+          "rate": 1.2
+        },
+        {
+          "id": 231,
+          "sourceCountry": "EE",
+          "destinationCountry": "CH",
+          "rate": 1.2
+        },
+        {
+          "id": 208,
+          "sourceCountry": "EE",
+          "destinationCountry": "CY",
+          "rate": 1.2
+        },
+        {
+          "id": 209,
+          "sourceCountry": "EE",
+          "destinationCountry": "CZ",
+          "rate": 1.2
+        },
+        {
+          "id": 214,
+          "sourceCountry": "EE",
+          "destinationCountry": "DE",
+          "rate": 1.2
+        },
+        {
+          "id": 210,
+          "sourceCountry": "EE",
+          "destinationCountry": "DK",
+          "rate": 1.2
+        },
+        {
+          "id": 211,
+          "sourceCountry": "EE",
+          "destinationCountry": "EE",
+          "rate": 1.2
+        },
+        {
+          "id": 229,
+          "sourceCountry": "EE",
+          "destinationCountry": "ES",
+          "rate": 1.2
+        },
+        {
+          "id": 212,
+          "sourceCountry": "EE",
+          "destinationCountry": "FI",
+          "rate": 1.2
+        },
+        {
+          "id": 213,
+          "sourceCountry": "EE",
+          "destinationCountry": "FR",
+          "rate": 1.2
+        },
+        {
+          "id": 232,
+          "sourceCountry": "EE",
+          "destinationCountry": "GB",
+          "rate": 1.2
+        },
+        {
+          "id": 215,
+          "sourceCountry": "EE",
+          "destinationCountry": "GR",
+          "rate": 1.2
+        },
+        {
+          "id": 207,
+          "sourceCountry": "EE",
+          "destinationCountry": "HR",
+          "rate": 1.2
+        },
+        {
+          "id": 216,
+          "sourceCountry": "EE",
+          "destinationCountry": "HU",
+          "rate": 1.2
+        },
+        {
+          "id": 219,
+          "sourceCountry": "EE",
+          "destinationCountry": "IE",
+          "rate": 1.2
+        },
+        {
+          "id": 217,
+          "sourceCountry": "EE",
+          "destinationCountry": "IT",
+          "rate": 1.2
+        },
+        {
+          "id": 220,
+          "sourceCountry": "EE",
+          "destinationCountry": "LT",
+          "rate": 1.2
+        },
+        {
+          "id": 221,
+          "sourceCountry": "EE",
+          "destinationCountry": "LU",
+          "rate": 1.2
+        },
+        {
+          "id": 218,
+          "sourceCountry": "EE",
+          "destinationCountry": "LV",
+          "rate": 1.2
+        },
+        {
+          "id": 222,
+          "sourceCountry": "EE",
+          "destinationCountry": "MT",
+          "rate": 1.2
+        },
+        {
+          "id": 223,
+          "sourceCountry": "EE",
+          "destinationCountry": "NL",
+          "rate": 1.2
+        },
+        {
+          "id": 224,
+          "sourceCountry": "EE",
+          "destinationCountry": "PL",
+          "rate": 1.2
+        },
+        {
+          "id": 225,
+          "sourceCountry": "EE",
+          "destinationCountry": "PT",
+          "rate": 1.2
+        },
+        {
+          "id": 226,
+          "sourceCountry": "EE",
+          "destinationCountry": "RO",
+          "rate": 1.2
+        },
+        {
+          "id": 230,
+          "sourceCountry": "EE",
+          "destinationCountry": "SE",
+          "rate": 1.2
+        },
+        {
+          "id": 228,
+          "sourceCountry": "EE",
+          "destinationCountry": "SI",
+          "rate": 1.2
+        },
+        {
+          "id": 227,
+          "sourceCountry": "EE",
+          "destinationCountry": "SK",
+          "rate": 1.2
+        }
+      ]
+    },
+    {
+      "sourceCountry": "ES",
+      "destinationCountries": [
+        {
+          "id": 726,
+          "sourceCountry": "ES",
+          "destinationCountry": "AT",
+          "rate": 1.2
+        },
+        {
+          "id": 727,
+          "sourceCountry": "ES",
+          "destinationCountry": "BE",
+          "rate": 2.1
+        },
+        {
+          "id": 728,
+          "sourceCountry": "ES",
+          "destinationCountry": "BG",
+          "rate": 1.2
+        },
+        {
+          "id": 753,
+          "sourceCountry": "ES",
+          "destinationCountry": "CH",
+          "rate": 1.2
+        },
+        {
+          "id": 730,
+          "sourceCountry": "ES",
+          "destinationCountry": "CY",
+          "rate": 1.2
+        },
+        {
+          "id": 731,
+          "sourceCountry": "ES",
+          "destinationCountry": "CZ",
+          "rate": 1.2
+        },
+        {
+          "id": 736,
+          "sourceCountry": "ES",
+          "destinationCountry": "DE",
+          "rate": 2.9
+        },
+        {
+          "id": 732,
+          "sourceCountry": "ES",
+          "destinationCountry": "DK",
+          "rate": 1.2
+        },
+        {
+          "id": 733,
+          "sourceCountry": "ES",
+          "destinationCountry": "EE",
+          "rate": 1.2
+        },
+        {
+          "id": 751,
+          "sourceCountry": "ES",
+          "destinationCountry": "ES",
+          "rate": 1.2
+        },
+        {
+          "id": 734,
+          "sourceCountry": "ES",
+          "destinationCountry": "FI",
+          "rate": 1.2
+        },
+        {
+          "id": 735,
+          "sourceCountry": "ES",
+          "destinationCountry": "FR",
+          "rate": 2.6
+        },
+        {
+          "id": 754,
+          "sourceCountry": "ES",
+          "destinationCountry": "GB",
+          "rate": 1.2
+        },
+        {
+          "id": 737,
+          "sourceCountry": "ES",
+          "destinationCountry": "GR",
+          "rate": 1.2
+        },
+        {
+          "id": 729,
+          "sourceCountry": "ES",
+          "destinationCountry": "HR",
+          "rate": 1.2
+        },
+        {
+          "id": 738,
+          "sourceCountry": "ES",
+          "destinationCountry": "HU",
+          "rate": 2.9
+        },
+        {
+          "id": 741,
+          "sourceCountry": "ES",
+          "destinationCountry": "IE",
+          "rate": 1.2
+        },
+        {
+          "id": 739,
+          "sourceCountry": "ES",
+          "destinationCountry": "IT",
+          "rate": 2.7
+        },
+        {
+          "id": 742,
+          "sourceCountry": "ES",
+          "destinationCountry": "LT",
+          "rate": 1.2
+        },
+        {
+          "id": 743,
+          "sourceCountry": "ES",
+          "destinationCountry": "LU",
+          "rate": 1.2
+        },
+        {
+          "id": 740,
+          "sourceCountry": "ES",
+          "destinationCountry": "LV",
+          "rate": 1.2
+        },
+        {
+          "id": 744,
+          "sourceCountry": "ES",
+          "destinationCountry": "MT",
+          "rate": 1.2
+        },
+        {
+          "id": 745,
+          "sourceCountry": "ES",
+          "destinationCountry": "NL",
+          "rate": 1.2
+        },
+        {
+          "id": 746,
+          "sourceCountry": "ES",
+          "destinationCountry": "PL",
+          "rate": 2.5
+        },
+        {
+          "id": 747,
+          "sourceCountry": "ES",
+          "destinationCountry": "PT",
+          "rate": 1.2
+        },
+        {
+          "id": 748,
+          "sourceCountry": "ES",
+          "destinationCountry": "RO",
+          "rate": 2.5
+        },
+        {
+          "id": 752,
+          "sourceCountry": "ES",
+          "destinationCountry": "SE",
+          "rate": 1.2
+        },
+        {
+          "id": 750,
+          "sourceCountry": "ES",
+          "destinationCountry": "SI",
+          "rate": 3.4
+        },
+        {
+          "id": 749,
+          "sourceCountry": "ES",
+          "destinationCountry": "SK",
+          "rate": 2.7
+        }
+      ]
+    },
+    {
+      "sourceCountry": "FI",
+      "destinationCountries": [
+        {
+          "id": 233,
+          "sourceCountry": "FI",
+          "destinationCountry": "AT",
+          "rate": 1.2
+        },
+        {
+          "id": 234,
+          "sourceCountry": "FI",
+          "destinationCountry": "BE",
+          "rate": 1.2
+        },
+        {
+          "id": 235,
+          "sourceCountry": "FI",
+          "destinationCountry": "BG",
+          "rate": 1.2
+        },
+        {
+          "id": 260,
+          "sourceCountry": "FI",
+          "destinationCountry": "CH",
+          "rate": 1.2
+        },
+        {
+          "id": 237,
+          "sourceCountry": "FI",
+          "destinationCountry": "CY",
+          "rate": 1.2
+        },
+        {
+          "id": 238,
+          "sourceCountry": "FI",
+          "destinationCountry": "CZ",
+          "rate": 1.2
+        },
+        {
+          "id": 243,
+          "sourceCountry": "FI",
+          "destinationCountry": "DE",
+          "rate": 1.2
+        },
+        {
+          "id": 239,
+          "sourceCountry": "FI",
+          "destinationCountry": "DK",
+          "rate": 1.2
+        },
+        {
+          "id": 240,
+          "sourceCountry": "FI",
+          "destinationCountry": "EE",
+          "rate": 1.2
+        },
+        {
+          "id": 258,
+          "sourceCountry": "FI",
+          "destinationCountry": "ES",
+          "rate": 1.2
+        },
+        {
+          "id": 241,
+          "sourceCountry": "FI",
+          "destinationCountry": "FI",
+          "rate": 1.2
+        },
+        {
+          "id": 242,
+          "sourceCountry": "FI",
+          "destinationCountry": "FR",
+          "rate": 1.2
+        },
+        {
+          "id": 261,
+          "sourceCountry": "FI",
+          "destinationCountry": "GB",
+          "rate": 1.2
+        },
+        {
+          "id": 244,
+          "sourceCountry": "FI",
+          "destinationCountry": "GR",
+          "rate": 1.2
+        },
+        {
+          "id": 236,
+          "sourceCountry": "FI",
+          "destinationCountry": "HR",
+          "rate": 1.2
+        },
+        {
+          "id": 245,
+          "sourceCountry": "FI",
+          "destinationCountry": "HU",
+          "rate": 1.2
+        },
+        {
+          "id": 248,
+          "sourceCountry": "FI",
+          "destinationCountry": "IE",
+          "rate": 1.2
+        },
+        {
+          "id": 246,
+          "sourceCountry": "FI",
+          "destinationCountry": "IT",
+          "rate": 1.2
+        },
+        {
+          "id": 249,
+          "sourceCountry": "FI",
+          "destinationCountry": "LT",
+          "rate": 1.2
+        },
+        {
+          "id": 250,
+          "sourceCountry": "FI",
+          "destinationCountry": "LU",
+          "rate": 1.2
+        },
+        {
+          "id": 247,
+          "sourceCountry": "FI",
+          "destinationCountry": "LV",
+          "rate": 1.2
+        },
+        {
+          "id": 251,
+          "sourceCountry": "FI",
+          "destinationCountry": "MT",
+          "rate": 1.2
+        },
+        {
+          "id": 252,
+          "sourceCountry": "FI",
+          "destinationCountry": "NL",
+          "rate": 1.2
+        },
+        {
+          "id": 253,
+          "sourceCountry": "FI",
+          "destinationCountry": "PL",
+          "rate": 1.2
+        },
+        {
+          "id": 254,
+          "sourceCountry": "FI",
+          "destinationCountry": "PT",
+          "rate": 1.2
+        },
+        {
+          "id": 255,
+          "sourceCountry": "FI",
+          "destinationCountry": "RO",
+          "rate": 1.2
+        },
+        {
+          "id": 259,
+          "sourceCountry": "FI",
+          "destinationCountry": "SE",
+          "rate": 1.2
+        },
+        {
+          "id": 257,
+          "sourceCountry": "FI",
+          "destinationCountry": "SI",
+          "rate": 1.2
+        },
+        {
+          "id": 256,
+          "sourceCountry": "FI",
+          "destinationCountry": "SK",
+          "rate": 1.2
+        }
+      ]
+    },
+    {
+      "sourceCountry": "FR",
+      "destinationCountries": [
+        {
+          "id": 262,
+          "sourceCountry": "FR",
+          "destinationCountry": "AT",
+          "rate": 2.1
+        },
+        {
+          "id": 263,
+          "sourceCountry": "FR",
+          "destinationCountry": "BE",
+          "rate": 3.9
+        },
+        {
+          "id": 264,
+          "sourceCountry": "FR",
+          "destinationCountry": "BG",
+          "rate": 1.2
+        },
+        {
+          "id": 289,
+          "sourceCountry": "FR",
+          "destinationCountry": "CH",
+          "rate": 1.2
+        },
+        {
+          "id": 266,
+          "sourceCountry": "FR",
+          "destinationCountry": "CY",
+          "rate": 1.2
+        },
+        {
+          "id": 267,
+          "sourceCountry": "FR",
+          "destinationCountry": "CZ",
+          "rate": 1.2
+        },
+        {
+          "id": 272,
+          "sourceCountry": "FR",
+          "destinationCountry": "DE",
+          "rate": 3.4
+        },
+        {
+          "id": 268,
+          "sourceCountry": "FR",
+          "destinationCountry": "DK",
+          "rate": 1.2
+        },
+        {
+          "id": 269,
+          "sourceCountry": "FR",
+          "destinationCountry": "EE",
+          "rate": 1.2
+        },
+        {
+          "id": 287,
+          "sourceCountry": "FR",
+          "destinationCountry": "ES",
+          "rate": 1.8
+        },
+        {
+          "id": 270,
+          "sourceCountry": "FR",
+          "destinationCountry": "FI",
+          "rate": 1.2
+        },
+        {
+          "id": 271,
+          "sourceCountry": "FR",
+          "destinationCountry": "FR",
+          "rate": 3.6
+        },
+        {
+          "id": 290,
+          "sourceCountry": "FR",
+          "destinationCountry": "GB",
+          "rate": 1.2
+        },
+        {
+          "id": 273,
+          "sourceCountry": "FR",
+          "destinationCountry": "GR",
+          "rate": 1.2
+        },
+        {
+          "id": 265,
+          "sourceCountry": "FR",
+          "destinationCountry": "HR",
+          "rate": 1.2
+        },
+        {
+          "id": 274,
+          "sourceCountry": "FR",
+          "destinationCountry": "HU",
+          "rate": 1.2
+        },
+        {
+          "id": 277,
+          "sourceCountry": "FR",
+          "destinationCountry": "IE",
+          "rate": 1.2
+        },
+        {
+          "id": 275,
+          "sourceCountry": "FR",
+          "destinationCountry": "IT",
+          "rate": 4.4
+        },
+        {
+          "id": 278,
+          "sourceCountry": "FR",
+          "destinationCountry": "LT",
+          "rate": 1.2
+        },
+        {
+          "id": 279,
+          "sourceCountry": "FR",
+          "destinationCountry": "LU",
+          "rate": 1.2
+        },
+        {
+          "id": 276,
+          "sourceCountry": "FR",
+          "destinationCountry": "LV",
+          "rate": 1.2
+        },
+        {
+          "id": 280,
+          "sourceCountry": "FR",
+          "destinationCountry": "MT",
+          "rate": 1.2
+        },
+        {
+          "id": 281,
+          "sourceCountry": "FR",
+          "destinationCountry": "NL",
+          "rate": 2.5
+        },
+        {
+          "id": 282,
+          "sourceCountry": "FR",
+          "destinationCountry": "PL",
+          "rate": 1.2
+        },
+        {
+          "id": 283,
+          "sourceCountry": "FR",
+          "destinationCountry": "PT",
+          "rate": 1.2
+        },
+        {
+          "id": 284,
+          "sourceCountry": "FR",
+          "destinationCountry": "RO",
+          "rate": 1.2
+        },
+        {
+          "id": 288,
+          "sourceCountry": "FR",
+          "destinationCountry": "SE",
+          "rate": 1.2
+        },
+        {
+          "id": 286,
+          "sourceCountry": "FR",
+          "destinationCountry": "SI",
+          "rate": 3.3
+        },
+        {
+          "id": 285,
+          "sourceCountry": "FR",
+          "destinationCountry": "SK",
+          "rate": 1.2
+        }
+      ]
+    },
+    {
+      "sourceCountry": "GB",
+      "destinationCountries": [
+        {
+          "id": 813,
+          "sourceCountry": "GB",
+          "destinationCountry": "AT",
+          "rate": 1.2
+        },
+        {
+          "id": 814,
+          "sourceCountry": "GB",
+          "destinationCountry": "BE",
+          "rate": 1.2
+        },
+        {
+          "id": 815,
+          "sourceCountry": "GB",
+          "destinationCountry": "BG",
+          "rate": 1.2
+        },
+        {
+          "id": 840,
+          "sourceCountry": "GB",
+          "destinationCountry": "CH",
+          "rate": 1.2
+        },
+        {
+          "id": 817,
+          "sourceCountry": "GB",
+          "destinationCountry": "CY",
+          "rate": 1.2
+        },
+        {
+          "id": 818,
+          "sourceCountry": "GB",
+          "destinationCountry": "CZ",
+          "rate": 1.2
+        },
+        {
+          "id": 823,
+          "sourceCountry": "GB",
+          "destinationCountry": "DE",
+          "rate": 1.2
+        },
+        {
+          "id": 819,
+          "sourceCountry": "GB",
+          "destinationCountry": "DK",
+          "rate": 1.2
+        },
+        {
+          "id": 820,
+          "sourceCountry": "GB",
+          "destinationCountry": "EE",
+          "rate": 1.2
+        },
+        {
+          "id": 838,
+          "sourceCountry": "GB",
+          "destinationCountry": "ES",
+          "rate": 1.2
+        },
+        {
+          "id": 821,
+          "sourceCountry": "GB",
+          "destinationCountry": "FI",
+          "rate": 1.2
+        },
+        {
+          "id": 822,
+          "sourceCountry": "GB",
+          "destinationCountry": "FR",
+          "rate": 1.2
+        },
+        {
+          "id": 841,
+          "sourceCountry": "GB",
+          "destinationCountry": "GB",
+          "rate": 1.2
+        },
+        {
+          "id": 824,
+          "sourceCountry": "GB",
+          "destinationCountry": "GR",
+          "rate": 1.2
+        },
+        {
+          "id": 816,
+          "sourceCountry": "GB",
+          "destinationCountry": "HR",
+          "rate": 1.2
+        },
+        {
+          "id": 825,
+          "sourceCountry": "GB",
+          "destinationCountry": "HU",
+          "rate": 1.2
+        },
+        {
+          "id": 828,
+          "sourceCountry": "GB",
+          "destinationCountry": "IE",
+          "rate": 1.2
+        },
+        {
+          "id": 826,
+          "sourceCountry": "GB",
+          "destinationCountry": "IT",
+          "rate": 1.2
+        },
+        {
+          "id": 829,
+          "sourceCountry": "GB",
+          "destinationCountry": "LT",
+          "rate": 1.2
+        },
+        {
+          "id": 830,
+          "sourceCountry": "GB",
+          "destinationCountry": "LU",
+          "rate": 1.2
+        },
+        {
+          "id": 827,
+          "sourceCountry": "GB",
+          "destinationCountry": "LV",
+          "rate": 1.2
+        },
+        {
+          "id": 831,
+          "sourceCountry": "GB",
+          "destinationCountry": "MT",
+          "rate": 1.2
+        },
+        {
+          "id": 832,
+          "sourceCountry": "GB",
+          "destinationCountry": "NL",
+          "rate": 1.2
+        },
+        {
+          "id": 833,
+          "sourceCountry": "GB",
+          "destinationCountry": "PL",
+          "rate": 1.2
+        },
+        {
+          "id": 834,
+          "sourceCountry": "GB",
+          "destinationCountry": "PT",
+          "rate": 1.2
+        },
+        {
+          "id": 835,
+          "sourceCountry": "GB",
+          "destinationCountry": "RO",
+          "rate": 1.2
+        },
+        {
+          "id": 839,
+          "sourceCountry": "GB",
+          "destinationCountry": "SE",
+          "rate": 1.2
+        },
+        {
+          "id": 837,
+          "sourceCountry": "GB",
+          "destinationCountry": "SI",
+          "rate": 1.2
+        },
+        {
+          "id": 836,
+          "sourceCountry": "GB",
+          "destinationCountry": "SK",
+          "rate": 1.2
+        }
+      ]
+    },
+    {
+      "sourceCountry": "GR",
+      "destinationCountries": [
+        {
+          "id": 320,
+          "sourceCountry": "GR",
+          "destinationCountry": "AT",
+          "rate": 1.2
+        },
+        {
+          "id": 321,
+          "sourceCountry": "GR",
+          "destinationCountry": "BE",
+          "rate": 1.2
+        },
+        {
+          "id": 322,
+          "sourceCountry": "GR",
+          "destinationCountry": "BG",
+          "rate": 1.2
+        },
+        {
+          "id": 347,
+          "sourceCountry": "GR",
+          "destinationCountry": "CH",
+          "rate": 1.2
+        },
+        {
+          "id": 324,
+          "sourceCountry": "GR",
+          "destinationCountry": "CY",
+          "rate": 1.2
+        },
+        {
+          "id": 325,
+          "sourceCountry": "GR",
+          "destinationCountry": "CZ",
+          "rate": 1.2
+        },
+        {
+          "id": 330,
+          "sourceCountry": "GR",
+          "destinationCountry": "DE",
+          "rate": 1.2
+        },
+        {
+          "id": 326,
+          "sourceCountry": "GR",
+          "destinationCountry": "DK",
+          "rate": 1.2
+        },
+        {
+          "id": 327,
+          "sourceCountry": "GR",
+          "destinationCountry": "EE",
+          "rate": 1.2
+        },
+        {
+          "id": 345,
+          "sourceCountry": "GR",
+          "destinationCountry": "ES",
+          "rate": 1.2
+        },
+        {
+          "id": 328,
+          "sourceCountry": "GR",
+          "destinationCountry": "FI",
+          "rate": 1.2
+        },
+        {
+          "id": 329,
+          "sourceCountry": "GR",
+          "destinationCountry": "FR",
+          "rate": 1.2
+        },
+        {
+          "id": 348,
+          "sourceCountry": "GR",
+          "destinationCountry": "GB",
+          "rate": 1.2
+        },
+        {
+          "id": 331,
+          "sourceCountry": "GR",
+          "destinationCountry": "GR",
+          "rate": 1.2
+        },
+        {
+          "id": 323,
+          "sourceCountry": "GR",
+          "destinationCountry": "HR",
+          "rate": 1.2
+        },
+        {
+          "id": 332,
+          "sourceCountry": "GR",
+          "destinationCountry": "HU",
+          "rate": 1.2
+        },
+        {
+          "id": 335,
+          "sourceCountry": "GR",
+          "destinationCountry": "IE",
+          "rate": 1.2
+        },
+        {
+          "id": 333,
+          "sourceCountry": "GR",
+          "destinationCountry": "IT",
+          "rate": 1.2
+        },
+        {
+          "id": 336,
+          "sourceCountry": "GR",
+          "destinationCountry": "LT",
+          "rate": 1.2
+        },
+        {
+          "id": 337,
+          "sourceCountry": "GR",
+          "destinationCountry": "LU",
+          "rate": 1.2
+        },
+        {
+          "id": 334,
+          "sourceCountry": "GR",
+          "destinationCountry": "LV",
+          "rate": 1.2
+        },
+        {
+          "id": 338,
+          "sourceCountry": "GR",
+          "destinationCountry": "MT",
+          "rate": 1.2
+        },
+        {
+          "id": 339,
+          "sourceCountry": "GR",
+          "destinationCountry": "NL",
+          "rate": 1.2
+        },
+        {
+          "id": 340,
+          "sourceCountry": "GR",
+          "destinationCountry": "PL",
+          "rate": 1.2
+        },
+        {
+          "id": 341,
+          "sourceCountry": "GR",
+          "destinationCountry": "PT",
+          "rate": 1.2
+        },
+        {
+          "id": 342,
+          "sourceCountry": "GR",
+          "destinationCountry": "RO",
+          "rate": 1.2
+        },
+        {
+          "id": 346,
+          "sourceCountry": "GR",
+          "destinationCountry": "SE",
+          "rate": 1.2
+        },
+        {
+          "id": 344,
+          "sourceCountry": "GR",
+          "destinationCountry": "SI",
+          "rate": 1.2
+        },
+        {
+          "id": 343,
+          "sourceCountry": "GR",
+          "destinationCountry": "SK",
+          "rate": 1.2
+        }
+      ]
+    },
+    {
+      "sourceCountry": "HR",
+      "destinationCountries": [
+        {
+          "id": 88,
+          "sourceCountry": "HR",
+          "destinationCountry": "AT",
+          "rate": 1.2
+        },
+        {
+          "id": 89,
+          "sourceCountry": "HR",
+          "destinationCountry": "BE",
+          "rate": 1.2
+        },
+        {
+          "id": 90,
+          "sourceCountry": "HR",
+          "destinationCountry": "BG",
+          "rate": 1.2
+        },
+        {
+          "id": 115,
+          "sourceCountry": "HR",
+          "destinationCountry": "CH",
+          "rate": 1.2
+        },
+        {
+          "id": 92,
+          "sourceCountry": "HR",
+          "destinationCountry": "CY",
+          "rate": 1.2
+        },
+        {
+          "id": 93,
+          "sourceCountry": "HR",
+          "destinationCountry": "CZ",
+          "rate": 1.2
+        },
+        {
+          "id": 98,
+          "sourceCountry": "HR",
+          "destinationCountry": "DE",
+          "rate": 1.2
+        },
+        {
+          "id": 94,
+          "sourceCountry": "HR",
+          "destinationCountry": "DK",
+          "rate": 1.2
+        },
+        {
+          "id": 95,
+          "sourceCountry": "HR",
+          "destinationCountry": "EE",
+          "rate": 1.2
+        },
+        {
+          "id": 113,
+          "sourceCountry": "HR",
+          "destinationCountry": "ES",
+          "rate": 1.2
+        },
+        {
+          "id": 96,
+          "sourceCountry": "HR",
+          "destinationCountry": "FI",
+          "rate": 1.2
+        },
+        {
+          "id": 97,
+          "sourceCountry": "HR",
+          "destinationCountry": "FR",
+          "rate": 1.2
+        },
+        {
+          "id": 116,
+          "sourceCountry": "HR",
+          "destinationCountry": "GB",
+          "rate": 1.2
+        },
+        {
+          "id": 99,
+          "sourceCountry": "HR",
+          "destinationCountry": "GR",
+          "rate": 1.2
+        },
+        {
+          "id": 91,
+          "sourceCountry": "HR",
+          "destinationCountry": "HR",
+          "rate": 1.2
+        },
+        {
+          "id": 100,
+          "sourceCountry": "HR",
+          "destinationCountry": "HU",
+          "rate": 1.2
+        },
+        {
+          "id": 103,
+          "sourceCountry": "HR",
+          "destinationCountry": "IE",
+          "rate": 1.2
+        },
+        {
+          "id": 101,
+          "sourceCountry": "HR",
+          "destinationCountry": "IT",
+          "rate": 1.2
+        },
+        {
+          "id": 104,
+          "sourceCountry": "HR",
+          "destinationCountry": "LT",
+          "rate": 1.2
+        },
+        {
+          "id": 105,
+          "sourceCountry": "HR",
+          "destinationCountry": "LU",
+          "rate": 1.2
+        },
+        {
+          "id": 102,
+          "sourceCountry": "HR",
+          "destinationCountry": "LV",
+          "rate": 1.2
+        },
+        {
+          "id": 106,
+          "sourceCountry": "HR",
+          "destinationCountry": "MT",
+          "rate": 1.2
+        },
+        {
+          "id": 107,
+          "sourceCountry": "HR",
+          "destinationCountry": "NL",
+          "rate": 1.2
+        },
+        {
+          "id": 108,
+          "sourceCountry": "HR",
+          "destinationCountry": "PL",
+          "rate": 1.2
+        },
+        {
+          "id": 109,
+          "sourceCountry": "HR",
+          "destinationCountry": "PT",
+          "rate": 1.2
+        },
+        {
+          "id": 110,
+          "sourceCountry": "HR",
+          "destinationCountry": "RO",
+          "rate": 1.2
+        },
+        {
+          "id": 114,
+          "sourceCountry": "HR",
+          "destinationCountry": "SE",
+          "rate": 1.2
+        },
+        {
+          "id": 112,
+          "sourceCountry": "HR",
+          "destinationCountry": "SI",
+          "rate": 1.2
+        },
+        {
+          "id": 111,
+          "sourceCountry": "HR",
+          "destinationCountry": "SK",
+          "rate": 1.2
+        }
+      ]
+    },
+    {
+      "sourceCountry": "HU",
+      "destinationCountries": [
+        {
+          "id": 349,
+          "sourceCountry": "HU",
+          "destinationCountry": "AT",
+          "rate": 1.9
+        },
+        {
+          "id": 350,
+          "sourceCountry": "HU",
+          "destinationCountry": "BE",
+          "rate": 3.3
+        },
+        {
+          "id": 351,
+          "sourceCountry": "HU",
+          "destinationCountry": "BG",
+          "rate": 1.2
+        },
+        {
+          "id": 376,
+          "sourceCountry": "HU",
+          "destinationCountry": "CH",
+          "rate": 1.2
+        },
+        {
+          "id": 353,
+          "sourceCountry": "HU",
+          "destinationCountry": "CY",
+          "rate": 1.2
+        },
+        {
+          "id": 354,
+          "sourceCountry": "HU",
+          "destinationCountry": "CZ",
+          "rate": 1.2
+        },
+        {
+          "id": 359,
+          "sourceCountry": "HU",
+          "destinationCountry": "DE",
+          "rate": 3.3
+        },
+        {
+          "id": 355,
+          "sourceCountry": "HU",
+          "destinationCountry": "DK",
+          "rate": 1.2
+        },
+        {
+          "id": 356,
+          "sourceCountry": "HU",
+          "destinationCountry": "EE",
+          "rate": 1.2
+        },
+        {
+          "id": 374,
+          "sourceCountry": "HU",
+          "destinationCountry": "ES",
+          "rate": 3
+        },
+        {
+          "id": 357,
+          "sourceCountry": "HU",
+          "destinationCountry": "FI",
+          "rate": 1.2
+        },
+        {
+          "id": 358,
+          "sourceCountry": "HU",
+          "destinationCountry": "FR",
+          "rate": 3.3
+        },
+        {
+          "id": 377,
+          "sourceCountry": "HU",
+          "destinationCountry": "GB",
+          "rate": 1.2
+        },
+        {
+          "id": 360,
+          "sourceCountry": "HU",
+          "destinationCountry": "GR",
+          "rate": 1.2
+        },
+        {
+          "id": 352,
+          "sourceCountry": "HU",
+          "destinationCountry": "HR",
+          "rate": 1.2
+        },
+        {
+          "id": 361,
+          "sourceCountry": "HU",
+          "destinationCountry": "HU",
+          "rate": 1.2
+        },
+        {
+          "id": 364,
+          "sourceCountry": "HU",
+          "destinationCountry": "IE",
+          "rate": 1.2
+        },
+        {
+          "id": 362,
+          "sourceCountry": "HU",
+          "destinationCountry": "IT",
+          "rate": 4.2
+        },
+        {
+          "id": 365,
+          "sourceCountry": "HU",
+          "destinationCountry": "LT",
+          "rate": 1.2
+        },
+        {
+          "id": 366,
+          "sourceCountry": "HU",
+          "destinationCountry": "LU",
+          "rate": 1.2
+        },
+        {
+          "id": 363,
+          "sourceCountry": "HU",
+          "destinationCountry": "LV",
+          "rate": 1.2
+        },
+        {
+          "id": 367,
+          "sourceCountry": "HU",
+          "destinationCountry": "MT",
+          "rate": 1.2
+        },
+        {
+          "id": 368,
+          "sourceCountry": "HU",
+          "destinationCountry": "NL",
+          "rate": 1.2
+        },
+        {
+          "id": 369,
+          "sourceCountry": "HU",
+          "destinationCountry": "PL",
+          "rate": 1.8
+        },
+        {
+          "id": 370,
+          "sourceCountry": "HU",
+          "destinationCountry": "PT",
+          "rate": 1.9
+        },
+        {
+          "id": 371,
+          "sourceCountry": "HU",
+          "destinationCountry": "RO",
+          "rate": 1.2
+        },
+        {
+          "id": 375,
+          "sourceCountry": "HU",
+          "destinationCountry": "SE",
+          "rate": 1.2
+        },
+        {
+          "id": 373,
+          "sourceCountry": "HU",
+          "destinationCountry": "SI",
+          "rate": 1.2
+        },
+        {
+          "id": 372,
+          "sourceCountry": "HU",
+          "destinationCountry": "SK",
+          "rate": 1.2
+        }
+      ]
+    },
+    {
+      "sourceCountry": "IE",
+      "destinationCountries": [
+        {
+          "id": 436,
+          "sourceCountry": "IE",
+          "destinationCountry": "AT",
+          "rate": 1.2
+        },
+        {
+          "id": 437,
+          "sourceCountry": "IE",
+          "destinationCountry": "BE",
+          "rate": 1.2
+        },
+        {
+          "id": 438,
+          "sourceCountry": "IE",
+          "destinationCountry": "BG",
+          "rate": 1.2
+        },
+        {
+          "id": 463,
+          "sourceCountry": "IE",
+          "destinationCountry": "CH",
+          "rate": 1.2
+        },
+        {
+          "id": 440,
+          "sourceCountry": "IE",
+          "destinationCountry": "CY",
+          "rate": 1.2
+        },
+        {
+          "id": 441,
+          "sourceCountry": "IE",
+          "destinationCountry": "CZ",
+          "rate": 1.2
+        },
+        {
+          "id": 446,
+          "sourceCountry": "IE",
+          "destinationCountry": "DE",
+          "rate": 1.2
+        },
+        {
+          "id": 442,
+          "sourceCountry": "IE",
+          "destinationCountry": "DK",
+          "rate": 1.2
+        },
+        {
+          "id": 443,
+          "sourceCountry": "IE",
+          "destinationCountry": "EE",
+          "rate": 1.2
+        },
+        {
+          "id": 461,
+          "sourceCountry": "IE",
+          "destinationCountry": "ES",
+          "rate": 1.2
+        },
+        {
+          "id": 444,
+          "sourceCountry": "IE",
+          "destinationCountry": "FI",
+          "rate": 1.2
+        },
+        {
+          "id": 445,
+          "sourceCountry": "IE",
+          "destinationCountry": "FR",
+          "rate": 1.2
+        },
+        {
+          "id": 464,
+          "sourceCountry": "IE",
+          "destinationCountry": "GB",
+          "rate": 1.2
+        },
+        {
+          "id": 447,
+          "sourceCountry": "IE",
+          "destinationCountry": "GR",
+          "rate": 1.2
+        },
+        {
+          "id": 439,
+          "sourceCountry": "IE",
+          "destinationCountry": "HR",
+          "rate": 1.2
+        },
+        {
+          "id": 448,
+          "sourceCountry": "IE",
+          "destinationCountry": "HU",
+          "rate": 1.2
+        },
+        {
+          "id": 451,
+          "sourceCountry": "IE",
+          "destinationCountry": "IE",
+          "rate": 1.2
+        },
+        {
+          "id": 449,
+          "sourceCountry": "IE",
+          "destinationCountry": "IT",
+          "rate": 1.2
+        },
+        {
+          "id": 452,
+          "sourceCountry": "IE",
+          "destinationCountry": "LT",
+          "rate": 1.2
+        },
+        {
+          "id": 453,
+          "sourceCountry": "IE",
+          "destinationCountry": "LU",
+          "rate": 1.2
+        },
+        {
+          "id": 450,
+          "sourceCountry": "IE",
+          "destinationCountry": "LV",
+          "rate": 1.2
+        },
+        {
+          "id": 454,
+          "sourceCountry": "IE",
+          "destinationCountry": "MT",
+          "rate": 1.2
+        },
+        {
+          "id": 455,
+          "sourceCountry": "IE",
+          "destinationCountry": "NL",
+          "rate": 1.2
+        },
+        {
+          "id": 456,
+          "sourceCountry": "IE",
+          "destinationCountry": "PL",
+          "rate": 1.2
+        },
+        {
+          "id": 457,
+          "sourceCountry": "IE",
+          "destinationCountry": "PT",
+          "rate": 1.2
+        },
+        {
+          "id": 458,
+          "sourceCountry": "IE",
+          "destinationCountry": "RO",
+          "rate": 1.2
+        },
+        {
+          "id": 462,
+          "sourceCountry": "IE",
+          "destinationCountry": "SE",
+          "rate": 1.2
+        },
+        {
+          "id": 460,
+          "sourceCountry": "IE",
+          "destinationCountry": "SI",
+          "rate": 1.2
+        },
+        {
+          "id": 459,
+          "sourceCountry": "IE",
+          "destinationCountry": "SK",
+          "rate": 1.2
+        }
+      ]
+    },
+    {
+      "sourceCountry": "IT",
+      "destinationCountries": [
+        {
+          "id": 378,
+          "sourceCountry": "IT",
+          "destinationCountry": "AT",
+          "rate": 1.2
+        },
+        {
+          "id": 379,
+          "sourceCountry": "IT",
+          "destinationCountry": "BE",
+          "rate": 3
+        },
+        {
+          "id": 380,
+          "sourceCountry": "IT",
+          "destinationCountry": "BG",
+          "rate": 1.2
+        },
+        {
+          "id": 405,
+          "sourceCountry": "IT",
+          "destinationCountry": "CH",
+          "rate": 1.2
+        },
+        {
+          "id": 382,
+          "sourceCountry": "IT",
+          "destinationCountry": "CY",
+          "rate": 1.2
+        },
+        {
+          "id": 383,
+          "sourceCountry": "IT",
+          "destinationCountry": "CZ",
+          "rate": 1.2
+        },
+        {
+          "id": 388,
+          "sourceCountry": "IT",
+          "destinationCountry": "DE",
+          "rate": 3.1
+        },
+        {
+          "id": 384,
+          "sourceCountry": "IT",
+          "destinationCountry": "DK",
+          "rate": 1.2
+        },
+        {
+          "id": 385,
+          "sourceCountry": "IT",
+          "destinationCountry": "EE",
+          "rate": 1.2
+        },
+        {
+          "id": 403,
+          "sourceCountry": "IT",
+          "destinationCountry": "ES",
+          "rate": 1.2
+        },
+        {
+          "id": 386,
+          "sourceCountry": "IT",
+          "destinationCountry": "FI",
+          "rate": 1.2
+        },
+        {
+          "id": 387,
+          "sourceCountry": "IT",
+          "destinationCountry": "FR",
+          "rate": 3.4
+        },
+        {
+          "id": 406,
+          "sourceCountry": "IT",
+          "destinationCountry": "GB",
+          "rate": 1.2
+        },
+        {
+          "id": 389,
+          "sourceCountry": "IT",
+          "destinationCountry": "GR",
+          "rate": 1.2
+        },
+        {
+          "id": 381,
+          "sourceCountry": "IT",
+          "destinationCountry": "HR",
+          "rate": 1.2
+        },
+        {
+          "id": 390,
+          "sourceCountry": "IT",
+          "destinationCountry": "HU",
+          "rate": 1.2
+        },
+        {
+          "id": 393,
+          "sourceCountry": "IT",
+          "destinationCountry": "IE",
+          "rate": 1.2
+        },
+        {
+          "id": 391,
+          "sourceCountry": "IT",
+          "destinationCountry": "IT",
+          "rate": 2.8
+        },
+        {
+          "id": 394,
+          "sourceCountry": "IT",
+          "destinationCountry": "LT",
+          "rate": 1.2
+        },
+        {
+          "id": 395,
+          "sourceCountry": "IT",
+          "destinationCountry": "LU",
+          "rate": 1.2
+        },
+        {
+          "id": 392,
+          "sourceCountry": "IT",
+          "destinationCountry": "LV",
+          "rate": 1.2
+        },
+        {
+          "id": 396,
+          "sourceCountry": "IT",
+          "destinationCountry": "MT",
+          "rate": 1.2
+        },
+        {
+          "id": 397,
+          "sourceCountry": "IT",
+          "destinationCountry": "NL",
+          "rate": 1.2
+        },
+        {
+          "id": 398,
+          "sourceCountry": "IT",
+          "destinationCountry": "PL",
+          "rate": 1.3
+        },
+        {
+          "id": 399,
+          "sourceCountry": "IT",
+          "destinationCountry": "PT",
+          "rate": 1.2
+        },
+        {
+          "id": 400,
+          "sourceCountry": "IT",
+          "destinationCountry": "RO",
+          "rate": 1.2
+        },
+        {
+          "id": 404,
+          "sourceCountry": "IT",
+          "destinationCountry": "SE",
+          "rate": 1.2
+        },
+        {
+          "id": 402,
+          "sourceCountry": "IT",
+          "destinationCountry": "SI",
+          "rate": 1.2
+        },
+        {
+          "id": 401,
+          "sourceCountry": "IT",
+          "destinationCountry": "SK",
+          "rate": 1.2
+        }
+      ]
+    },
+    {
+      "sourceCountry": "LT",
+      "destinationCountries": [
+        {
+          "id": 465,
+          "sourceCountry": "LT",
+          "destinationCountry": "AT",
+          "rate": 1.2
+        },
+        {
+          "id": 466,
+          "sourceCountry": "LT",
+          "destinationCountry": "BE",
+          "rate": 1.2
+        },
+        {
+          "id": 467,
+          "sourceCountry": "LT",
+          "destinationCountry": "BG",
+          "rate": 1.2
+        },
+        {
+          "id": 492,
+          "sourceCountry": "LT",
+          "destinationCountry": "CH",
+          "rate": 1.2
+        },
+        {
+          "id": 469,
+          "sourceCountry": "LT",
+          "destinationCountry": "CY",
+          "rate": 1.2
+        },
+        {
+          "id": 470,
+          "sourceCountry": "LT",
+          "destinationCountry": "CZ",
+          "rate": 1.2
+        },
+        {
+          "id": 475,
+          "sourceCountry": "LT",
+          "destinationCountry": "DE",
+          "rate": 1.2
+        },
+        {
+          "id": 471,
+          "sourceCountry": "LT",
+          "destinationCountry": "DK",
+          "rate": 1.2
+        },
+        {
+          "id": 472,
+          "sourceCountry": "LT",
+          "destinationCountry": "EE",
+          "rate": 1.2
+        },
+        {
+          "id": 490,
+          "sourceCountry": "LT",
+          "destinationCountry": "ES",
+          "rate": 1.2
+        },
+        {
+          "id": 473,
+          "sourceCountry": "LT",
+          "destinationCountry": "FI",
+          "rate": 1.2
+        },
+        {
+          "id": 474,
+          "sourceCountry": "LT",
+          "destinationCountry": "FR",
+          "rate": 2.3
+        },
+        {
+          "id": 493,
+          "sourceCountry": "LT",
+          "destinationCountry": "GB",
+          "rate": 1.2
+        },
+        {
+          "id": 476,
+          "sourceCountry": "LT",
+          "destinationCountry": "GR",
+          "rate": 1.2
+        },
+        {
+          "id": 468,
+          "sourceCountry": "LT",
+          "destinationCountry": "HR",
+          "rate": 1.2
+        },
+        {
+          "id": 477,
+          "sourceCountry": "LT",
+          "destinationCountry": "HU",
+          "rate": 1.2
+        },
+        {
+          "id": 480,
+          "sourceCountry": "LT",
+          "destinationCountry": "IE",
+          "rate": 1.2
+        },
+        {
+          "id": 478,
+          "sourceCountry": "LT",
+          "destinationCountry": "IT",
+          "rate": 1.2
+        },
+        {
+          "id": 481,
+          "sourceCountry": "LT",
+          "destinationCountry": "LT",
+          "rate": 1.2
+        },
+        {
+          "id": 482,
+          "sourceCountry": "LT",
+          "destinationCountry": "LU",
+          "rate": 1.2
+        },
+        {
+          "id": 479,
+          "sourceCountry": "LT",
+          "destinationCountry": "LV",
+          "rate": 1.2
+        },
+        {
+          "id": 483,
+          "sourceCountry": "LT",
+          "destinationCountry": "MT",
+          "rate": 1.2
+        },
+        {
+          "id": 484,
+          "sourceCountry": "LT",
+          "destinationCountry": "NL",
+          "rate": 1.2
+        },
+        {
+          "id": 485,
+          "sourceCountry": "LT",
+          "destinationCountry": "PL",
+          "rate": 1.2
+        },
+        {
+          "id": 486,
+          "sourceCountry": "LT",
+          "destinationCountry": "PT",
+          "rate": 1.2
+        },
+        {
+          "id": 487,
+          "sourceCountry": "LT",
+          "destinationCountry": "RO",
+          "rate": 1.2
+        },
+        {
+          "id": 491,
+          "sourceCountry": "LT",
+          "destinationCountry": "SE",
+          "rate": 1.2
+        },
+        {
+          "id": 489,
+          "sourceCountry": "LT",
+          "destinationCountry": "SI",
+          "rate": 1.2
+        },
+        {
+          "id": 488,
+          "sourceCountry": "LT",
+          "destinationCountry": "SK",
+          "rate": 1.2
+        }
+      ]
+    },
+    {
+      "sourceCountry": "LU",
+      "destinationCountries": [
+        {
+          "id": 494,
+          "sourceCountry": "LU",
+          "destinationCountry": "AT",
+          "rate": 1.2
+        },
+        {
+          "id": 495,
+          "sourceCountry": "LU",
+          "destinationCountry": "BE",
+          "rate": 1.2
+        },
+        {
+          "id": 496,
+          "sourceCountry": "LU",
+          "destinationCountry": "BG",
+          "rate": 1.2
+        },
+        {
+          "id": 521,
+          "sourceCountry": "LU",
+          "destinationCountry": "CH",
+          "rate": 1.2
+        },
+        {
+          "id": 498,
+          "sourceCountry": "LU",
+          "destinationCountry": "CY",
+          "rate": 1.2
+        },
+        {
+          "id": 499,
+          "sourceCountry": "LU",
+          "destinationCountry": "CZ",
+          "rate": 1.2
+        },
+        {
+          "id": 504,
+          "sourceCountry": "LU",
+          "destinationCountry": "DE",
+          "rate": 1.2
+        },
+        {
+          "id": 500,
+          "sourceCountry": "LU",
+          "destinationCountry": "DK",
+          "rate": 1.2
+        },
+        {
+          "id": 501,
+          "sourceCountry": "LU",
+          "destinationCountry": "EE",
+          "rate": 1.2
+        },
+        {
+          "id": 519,
+          "sourceCountry": "LU",
+          "destinationCountry": "ES",
+          "rate": 1.2
+        },
+        {
+          "id": 502,
+          "sourceCountry": "LU",
+          "destinationCountry": "FI",
+          "rate": 1.2
+        },
+        {
+          "id": 503,
+          "sourceCountry": "LU",
+          "destinationCountry": "FR",
+          "rate": 1.2
+        },
+        {
+          "id": 522,
+          "sourceCountry": "LU",
+          "destinationCountry": "GB",
+          "rate": 1.2
+        },
+        {
+          "id": 505,
+          "sourceCountry": "LU",
+          "destinationCountry": "GR",
+          "rate": 1.2
+        },
+        {
+          "id": 497,
+          "sourceCountry": "LU",
+          "destinationCountry": "HR",
+          "rate": 1.2
+        },
+        {
+          "id": 506,
+          "sourceCountry": "LU",
+          "destinationCountry": "HU",
+          "rate": 1.2
+        },
+        {
+          "id": 509,
+          "sourceCountry": "LU",
+          "destinationCountry": "IE",
+          "rate": 1.2
+        },
+        {
+          "id": 507,
+          "sourceCountry": "LU",
+          "destinationCountry": "IT",
+          "rate": 1.2
+        },
+        {
+          "id": 510,
+          "sourceCountry": "LU",
+          "destinationCountry": "LT",
+          "rate": 1.2
+        },
+        {
+          "id": 511,
+          "sourceCountry": "LU",
+          "destinationCountry": "LU",
+          "rate": 1.2
+        },
+        {
+          "id": 508,
+          "sourceCountry": "LU",
+          "destinationCountry": "LV",
+          "rate": 1.2
+        },
+        {
+          "id": 512,
+          "sourceCountry": "LU",
+          "destinationCountry": "MT",
+          "rate": 1.2
+        },
+        {
+          "id": 513,
+          "sourceCountry": "LU",
+          "destinationCountry": "NL",
+          "rate": 1.2
+        },
+        {
+          "id": 514,
+          "sourceCountry": "LU",
+          "destinationCountry": "PL",
+          "rate": 1.2
+        },
+        {
+          "id": 515,
+          "sourceCountry": "LU",
+          "destinationCountry": "PT",
+          "rate": 1.2
+        },
+        {
+          "id": 516,
+          "sourceCountry": "LU",
+          "destinationCountry": "RO",
+          "rate": 1.2
+        },
+        {
+          "id": 520,
+          "sourceCountry": "LU",
+          "destinationCountry": "SE",
+          "rate": 1.2
+        },
+        {
+          "id": 518,
+          "sourceCountry": "LU",
+          "destinationCountry": "SI",
+          "rate": 1.2
+        },
+        {
+          "id": 517,
+          "sourceCountry": "LU",
+          "destinationCountry": "SK",
+          "rate": 1.2
+        }
+      ]
+    },
+    {
+      "sourceCountry": "LV",
+      "destinationCountries": [
+        {
+          "id": 407,
+          "sourceCountry": "LV",
+          "destinationCountry": "AT",
+          "rate": 1.2
+        },
+        {
+          "id": 408,
+          "sourceCountry": "LV",
+          "destinationCountry": "BE",
+          "rate": 1.2
+        },
+        {
+          "id": 409,
+          "sourceCountry": "LV",
+          "destinationCountry": "BG",
+          "rate": 1.2
+        },
+        {
+          "id": 434,
+          "sourceCountry": "LV",
+          "destinationCountry": "CH",
+          "rate": 1.2
+        },
+        {
+          "id": 411,
+          "sourceCountry": "LV",
+          "destinationCountry": "CY",
+          "rate": 1.2
+        },
+        {
+          "id": 412,
+          "sourceCountry": "LV",
+          "destinationCountry": "CZ",
+          "rate": 1.2
+        },
+        {
+          "id": 417,
+          "sourceCountry": "LV",
+          "destinationCountry": "DE",
+          "rate": 1.2
+        },
+        {
+          "id": 413,
+          "sourceCountry": "LV",
+          "destinationCountry": "DK",
+          "rate": 1.2
+        },
+        {
+          "id": 414,
+          "sourceCountry": "LV",
+          "destinationCountry": "EE",
+          "rate": 1.2
+        },
+        {
+          "id": 432,
+          "sourceCountry": "LV",
+          "destinationCountry": "ES",
+          "rate": 1.2
+        },
+        {
+          "id": 415,
+          "sourceCountry": "LV",
+          "destinationCountry": "FI",
+          "rate": 1.2
+        },
+        {
+          "id": 416,
+          "sourceCountry": "LV",
+          "destinationCountry": "FR",
+          "rate": 1.2
+        },
+        {
+          "id": 435,
+          "sourceCountry": "LV",
+          "destinationCountry": "GB",
+          "rate": 1.2
+        },
+        {
+          "id": 418,
+          "sourceCountry": "LV",
+          "destinationCountry": "GR",
+          "rate": 1.2
+        },
+        {
+          "id": 410,
+          "sourceCountry": "LV",
+          "destinationCountry": "HR",
+          "rate": 1.2
+        },
+        {
+          "id": 419,
+          "sourceCountry": "LV",
+          "destinationCountry": "HU",
+          "rate": 1.2
+        },
+        {
+          "id": 422,
+          "sourceCountry": "LV",
+          "destinationCountry": "IE",
+          "rate": 1.2
+        },
+        {
+          "id": 420,
+          "sourceCountry": "LV",
+          "destinationCountry": "IT",
+          "rate": 1.2
+        },
+        {
+          "id": 423,
+          "sourceCountry": "LV",
+          "destinationCountry": "LT",
+          "rate": 1.2
+        },
+        {
+          "id": 424,
+          "sourceCountry": "LV",
+          "destinationCountry": "LU",
+          "rate": 1.2
+        },
+        {
+          "id": 421,
+          "sourceCountry": "LV",
+          "destinationCountry": "LV",
+          "rate": 1.2
+        },
+        {
+          "id": 425,
+          "sourceCountry": "LV",
+          "destinationCountry": "MT",
+          "rate": 1.2
+        },
+        {
+          "id": 426,
+          "sourceCountry": "LV",
+          "destinationCountry": "NL",
+          "rate": 1.2
+        },
+        {
+          "id": 427,
+          "sourceCountry": "LV",
+          "destinationCountry": "PL",
+          "rate": 1.2
+        },
+        {
+          "id": 428,
+          "sourceCountry": "LV",
+          "destinationCountry": "PT",
+          "rate": 1.2
+        },
+        {
+          "id": 429,
+          "sourceCountry": "LV",
+          "destinationCountry": "RO",
+          "rate": 1.2
+        },
+        {
+          "id": 433,
+          "sourceCountry": "LV",
+          "destinationCountry": "SE",
+          "rate": 1.2
+        },
+        {
+          "id": 431,
+          "sourceCountry": "LV",
+          "destinationCountry": "SI",
+          "rate": 1.2
+        },
+        {
+          "id": 430,
+          "sourceCountry": "LV",
+          "destinationCountry": "SK",
+          "rate": 1.2
+        }
+      ]
+    },
+    {
+      "sourceCountry": "MT",
+      "destinationCountries": [
+        {
+          "id": 523,
+          "sourceCountry": "MT",
+          "destinationCountry": "AT",
+          "rate": 1.2
+        },
+        {
+          "id": 524,
+          "sourceCountry": "MT",
+          "destinationCountry": "BE",
+          "rate": 1.2
+        },
+        {
+          "id": 525,
+          "sourceCountry": "MT",
+          "destinationCountry": "BG",
+          "rate": 1.2
+        },
+        {
+          "id": 550,
+          "sourceCountry": "MT",
+          "destinationCountry": "CH",
+          "rate": 1.2
+        },
+        {
+          "id": 527,
+          "sourceCountry": "MT",
+          "destinationCountry": "CY",
+          "rate": 1.2
+        },
+        {
+          "id": 528,
+          "sourceCountry": "MT",
+          "destinationCountry": "CZ",
+          "rate": 1.2
+        },
+        {
+          "id": 533,
+          "sourceCountry": "MT",
+          "destinationCountry": "DE",
+          "rate": 1.2
+        },
+        {
+          "id": 529,
+          "sourceCountry": "MT",
+          "destinationCountry": "DK",
+          "rate": 1.2
+        },
+        {
+          "id": 530,
+          "sourceCountry": "MT",
+          "destinationCountry": "EE",
+          "rate": 1.2
+        },
+        {
+          "id": 548,
+          "sourceCountry": "MT",
+          "destinationCountry": "ES",
+          "rate": 1.2
+        },
+        {
+          "id": 531,
+          "sourceCountry": "MT",
+          "destinationCountry": "FI",
+          "rate": 1.2
+        },
+        {
+          "id": 532,
+          "sourceCountry": "MT",
+          "destinationCountry": "FR",
+          "rate": 1.2
+        },
+        {
+          "id": 551,
+          "sourceCountry": "MT",
+          "destinationCountry": "GB",
+          "rate": 1.2
+        },
+        {
+          "id": 534,
+          "sourceCountry": "MT",
+          "destinationCountry": "GR",
+          "rate": 1.2
+        },
+        {
+          "id": 526,
+          "sourceCountry": "MT",
+          "destinationCountry": "HR",
+          "rate": 1.2
+        },
+        {
+          "id": 535,
+          "sourceCountry": "MT",
+          "destinationCountry": "HU",
+          "rate": 1.2
+        },
+        {
+          "id": 538,
+          "sourceCountry": "MT",
+          "destinationCountry": "IE",
+          "rate": 1.2
+        },
+        {
+          "id": 536,
+          "sourceCountry": "MT",
+          "destinationCountry": "IT",
+          "rate": 1.2
+        },
+        {
+          "id": 539,
+          "sourceCountry": "MT",
+          "destinationCountry": "LT",
+          "rate": 1.2
+        },
+        {
+          "id": 540,
+          "sourceCountry": "MT",
+          "destinationCountry": "LU",
+          "rate": 1.2
+        },
+        {
+          "id": 537,
+          "sourceCountry": "MT",
+          "destinationCountry": "LV",
+          "rate": 1.2
+        },
+        {
+          "id": 541,
+          "sourceCountry": "MT",
+          "destinationCountry": "MT",
+          "rate": 1.2
+        },
+        {
+          "id": 542,
+          "sourceCountry": "MT",
+          "destinationCountry": "NL",
+          "rate": 1.2
+        },
+        {
+          "id": 543,
+          "sourceCountry": "MT",
+          "destinationCountry": "PL",
+          "rate": 1.2
+        },
+        {
+          "id": 544,
+          "sourceCountry": "MT",
+          "destinationCountry": "PT",
+          "rate": 1.2
+        },
+        {
+          "id": 545,
+          "sourceCountry": "MT",
+          "destinationCountry": "RO",
+          "rate": 1.2
+        },
+        {
+          "id": 549,
+          "sourceCountry": "MT",
+          "destinationCountry": "SE",
+          "rate": 1.2
+        },
+        {
+          "id": 547,
+          "sourceCountry": "MT",
+          "destinationCountry": "SI",
+          "rate": 1.2
+        },
+        {
+          "id": 546,
+          "sourceCountry": "MT",
+          "destinationCountry": "SK",
+          "rate": 1.2
+        }
+      ]
+    },
+    {
+      "sourceCountry": "NL",
+      "destinationCountries": [
+        {
+          "id": 552,
+          "sourceCountry": "NL",
+          "destinationCountry": "AT",
+          "rate": 1.2
+        },
+        {
+          "id": 553,
+          "sourceCountry": "NL",
+          "destinationCountry": "BE",
+          "rate": 5.4
+        },
+        {
+          "id": 554,
+          "sourceCountry": "NL",
+          "destinationCountry": "BG",
+          "rate": 1.2
+        },
+        {
+          "id": 579,
+          "sourceCountry": "NL",
+          "destinationCountry": "CH",
+          "rate": 1.2
+        },
+        {
+          "id": 556,
+          "sourceCountry": "NL",
+          "destinationCountry": "CY",
+          "rate": 1.2
+        },
+        {
+          "id": 557,
+          "sourceCountry": "NL",
+          "destinationCountry": "CZ",
+          "rate": 1.2
+        },
+        {
+          "id": 562,
+          "sourceCountry": "NL",
+          "destinationCountry": "DE",
+          "rate": 2.7
+        },
+        {
+          "id": 558,
+          "sourceCountry": "NL",
+          "destinationCountry": "DK",
+          "rate": 1.2
+        },
+        {
+          "id": 559,
+          "sourceCountry": "NL",
+          "destinationCountry": "EE",
+          "rate": 1.2
+        },
+        {
+          "id": 577,
+          "sourceCountry": "NL",
+          "destinationCountry": "ES",
+          "rate": 1.2
+        },
+        {
+          "id": 560,
+          "sourceCountry": "NL",
+          "destinationCountry": "FI",
+          "rate": 1.2
+        },
+        {
+          "id": 561,
+          "sourceCountry": "NL",
+          "destinationCountry": "FR",
+          "rate": 1.2
+        },
+        {
+          "id": 580,
+          "sourceCountry": "NL",
+          "destinationCountry": "GB",
+          "rate": 1.2
+        },
+        {
+          "id": 563,
+          "sourceCountry": "NL",
+          "destinationCountry": "GR",
+          "rate": 1.2
+        },
+        {
+          "id": 555,
+          "sourceCountry": "NL",
+          "destinationCountry": "HR",
+          "rate": 1.2
+        },
+        {
+          "id": 564,
+          "sourceCountry": "NL",
+          "destinationCountry": "HU",
+          "rate": 2.2
+        },
+        {
+          "id": 567,
+          "sourceCountry": "NL",
+          "destinationCountry": "IE",
+          "rate": 1.2
+        },
+        {
+          "id": 565,
+          "sourceCountry": "NL",
+          "destinationCountry": "IT",
+          "rate": 1.2
+        },
+        {
+          "id": 568,
+          "sourceCountry": "NL",
+          "destinationCountry": "LT",
+          "rate": 1.2
+        },
+        {
+          "id": 569,
+          "sourceCountry": "NL",
+          "destinationCountry": "LU",
+          "rate": 1.2
+        },
+        {
+          "id": 566,
+          "sourceCountry": "NL",
+          "destinationCountry": "LV",
+          "rate": 1.2
+        },
+        {
+          "id": 570,
+          "sourceCountry": "NL",
+          "destinationCountry": "MT",
+          "rate": 1.2
+        },
+        {
+          "id": 571,
+          "sourceCountry": "NL",
+          "destinationCountry": "NL",
+          "rate": 1.2
+        },
+        {
+          "id": 572,
+          "sourceCountry": "NL",
+          "destinationCountry": "PL",
+          "rate": 1.2
+        },
+        {
+          "id": 573,
+          "sourceCountry": "NL",
+          "destinationCountry": "PT",
+          "rate": 1.2
+        },
+        {
+          "id": 574,
+          "sourceCountry": "NL",
+          "destinationCountry": "RO",
+          "rate": 1.2
+        },
+        {
+          "id": 578,
+          "sourceCountry": "NL",
+          "destinationCountry": "SE",
+          "rate": 1.2
+        },
+        {
+          "id": 576,
+          "sourceCountry": "NL",
+          "destinationCountry": "SI",
+          "rate": 1.2
+        },
+        {
+          "id": 575,
+          "sourceCountry": "NL",
+          "destinationCountry": "SK",
+          "rate": 1.2
+        }
+      ]
+    },
+    {
+      "sourceCountry": "PL",
+      "destinationCountries": [
+        {
+          "id": 581,
+          "sourceCountry": "PL",
+          "destinationCountry": "AT",
+          "rate": 1.9
+        },
+        {
+          "id": 582,
+          "sourceCountry": "PL",
+          "destinationCountry": "BE",
+          "rate": 3
+        },
+        {
+          "id": 583,
+          "sourceCountry": "PL",
+          "destinationCountry": "BG",
+          "rate": 1.2
+        },
+        {
+          "id": 608,
+          "sourceCountry": "PL",
+          "destinationCountry": "CH",
+          "rate": 4
+        },
+        {
+          "id": 585,
+          "sourceCountry": "PL",
+          "destinationCountry": "CY",
+          "rate": 1.2
+        },
+        {
+          "id": 586,
+          "sourceCountry": "PL",
+          "destinationCountry": "CZ",
+          "rate": 1.5
+        },
+        {
+          "id": 591,
+          "sourceCountry": "PL",
+          "destinationCountry": "DE",
+          "rate": 2.6
+        },
+        {
+          "id": 587,
+          "sourceCountry": "PL",
+          "destinationCountry": "DK",
+          "rate": 1.2
+        },
+        {
+          "id": 588,
+          "sourceCountry": "PL",
+          "destinationCountry": "EE",
+          "rate": 1.2
+        },
+        {
+          "id": 606,
+          "sourceCountry": "PL",
+          "destinationCountry": "ES",
+          "rate": 4
+        },
+        {
+          "id": 589,
+          "sourceCountry": "PL",
+          "destinationCountry": "FI",
+          "rate": 1.2
+        },
+        {
+          "id": 590,
+          "sourceCountry": "PL",
+          "destinationCountry": "FR",
+          "rate": 3
+        },
+        {
+          "id": 609,
+          "sourceCountry": "PL",
+          "destinationCountry": "GB",
+          "rate": 1.2
+        },
+        {
+          "id": 592,
+          "sourceCountry": "PL",
+          "destinationCountry": "GR",
+          "rate": 1.2
+        },
+        {
+          "id": 584,
+          "sourceCountry": "PL",
+          "destinationCountry": "HR",
+          "rate": 1.2
+        },
+        {
+          "id": 593,
+          "sourceCountry": "PL",
+          "destinationCountry": "HU",
+          "rate": 1.2
+        },
+        {
+          "id": 596,
+          "sourceCountry": "PL",
+          "destinationCountry": "IE",
+          "rate": 1.2
+        },
+        {
+          "id": 594,
+          "sourceCountry": "PL",
+          "destinationCountry": "IT",
+          "rate": 4.1
+        },
+        {
+          "id": 597,
+          "sourceCountry": "PL",
+          "destinationCountry": "LT",
+          "rate": 1.2
+        },
+        {
+          "id": 598,
+          "sourceCountry": "PL",
+          "destinationCountry": "LU",
+          "rate": 1.2
+        },
+        {
+          "id": 595,
+          "sourceCountry": "PL",
+          "destinationCountry": "LV",
+          "rate": 1.2
+        },
+        {
+          "id": 599,
+          "sourceCountry": "PL",
+          "destinationCountry": "MT",
+          "rate": 1.2
+        },
+        {
+          "id": 600,
+          "sourceCountry": "PL",
+          "destinationCountry": "NL",
+          "rate": 2.1
+        },
+        {
+          "id": 601,
+          "sourceCountry": "PL",
+          "destinationCountry": "PL",
+          "rate": 2.3
+        },
+        {
+          "id": 602,
+          "sourceCountry": "PL",
+          "destinationCountry": "PT",
+          "rate": 3
+        },
+        {
+          "id": 603,
+          "sourceCountry": "PL",
+          "destinationCountry": "RO",
+          "rate": 1.2
+        },
+        {
+          "id": 607,
+          "sourceCountry": "PL",
+          "destinationCountry": "SE",
+          "rate": 1.2
+        },
+        {
+          "id": 605,
+          "sourceCountry": "PL",
+          "destinationCountry": "SI",
+          "rate": 1.2
+        },
+        {
+          "id": 604,
+          "sourceCountry": "PL",
+          "destinationCountry": "SK",
+          "rate": 1.2
+        }
+      ]
+    },
+    {
+      "sourceCountry": "PT",
+      "destinationCountries": [
+        {
+          "id": 610,
+          "sourceCountry": "PT",
+          "destinationCountry": "AT",
+          "rate": 1.2
+        },
+        {
+          "id": 611,
+          "sourceCountry": "PT",
+          "destinationCountry": "BE",
+          "rate": 1.2
+        },
+        {
+          "id": 612,
+          "sourceCountry": "PT",
+          "destinationCountry": "BG",
+          "rate": 1.2
+        },
+        {
+          "id": 637,
+          "sourceCountry": "PT",
+          "destinationCountry": "CH",
+          "rate": 1.2
+        },
+        {
+          "id": 614,
+          "sourceCountry": "PT",
+          "destinationCountry": "CY",
+          "rate": 1.2
+        },
+        {
+          "id": 615,
+          "sourceCountry": "PT",
+          "destinationCountry": "CZ",
+          "rate": 1.2
+        },
+        {
+          "id": 620,
+          "sourceCountry": "PT",
+          "destinationCountry": "DE",
+          "rate": 1.2
+        },
+        {
+          "id": 616,
+          "sourceCountry": "PT",
+          "destinationCountry": "DK",
+          "rate": 1.2
+        },
+        {
+          "id": 617,
+          "sourceCountry": "PT",
+          "destinationCountry": "EE",
+          "rate": 1.2
+        },
+        {
+          "id": 635,
+          "sourceCountry": "PT",
+          "destinationCountry": "ES",
+          "rate": 1.2
+        },
+        {
+          "id": 618,
+          "sourceCountry": "PT",
+          "destinationCountry": "FI",
+          "rate": 1.2
+        },
+        {
+          "id": 619,
+          "sourceCountry": "PT",
+          "destinationCountry": "FR",
+          "rate": 2.1
+        },
+        {
+          "id": 638,
+          "sourceCountry": "PT",
+          "destinationCountry": "GB",
+          "rate": 1.2
+        },
+        {
+          "id": 621,
+          "sourceCountry": "PT",
+          "destinationCountry": "GR",
+          "rate": 1.2
+        },
+        {
+          "id": 613,
+          "sourceCountry": "PT",
+          "destinationCountry": "HR",
+          "rate": 1.2
+        },
+        {
+          "id": 622,
+          "sourceCountry": "PT",
+          "destinationCountry": "HU",
+          "rate": 1.2
+        },
+        {
+          "id": 625,
+          "sourceCountry": "PT",
+          "destinationCountry": "IE",
+          "rate": 1.2
+        },
+        {
+          "id": 623,
+          "sourceCountry": "PT",
+          "destinationCountry": "IT",
+          "rate": 1.2
+        },
+        {
+          "id": 626,
+          "sourceCountry": "PT",
+          "destinationCountry": "LT",
+          "rate": 1.2
+        },
+        {
+          "id": 627,
+          "sourceCountry": "PT",
+          "destinationCountry": "LU",
+          "rate": 1.2
+        },
+        {
+          "id": 624,
+          "sourceCountry": "PT",
+          "destinationCountry": "LV",
+          "rate": 1.2
+        },
+        {
+          "id": 628,
+          "sourceCountry": "PT",
+          "destinationCountry": "MT",
+          "rate": 1.2
+        },
+        {
+          "id": 629,
+          "sourceCountry": "PT",
+          "destinationCountry": "NL",
+          "rate": 1.2
+        },
+        {
+          "id": 630,
+          "sourceCountry": "PT",
+          "destinationCountry": "PL",
+          "rate": 1.2
+        },
+        {
+          "id": 631,
+          "sourceCountry": "PT",
+          "destinationCountry": "PT",
+          "rate": 1.2
+        },
+        {
+          "id": 632,
+          "sourceCountry": "PT",
+          "destinationCountry": "RO",
+          "rate": 1.2
+        },
+        {
+          "id": 636,
+          "sourceCountry": "PT",
+          "destinationCountry": "SE",
+          "rate": 1.2
+        },
+        {
+          "id": 634,
+          "sourceCountry": "PT",
+          "destinationCountry": "SI",
+          "rate": 1.2
+        },
+        {
+          "id": 633,
+          "sourceCountry": "PT",
+          "destinationCountry": "SK",
+          "rate": 1.2
+        }
+      ]
+    },
+    {
+      "sourceCountry": "RO",
+      "destinationCountries": [
+        {
+          "id": 639,
+          "sourceCountry": "RO",
+          "destinationCountry": "AT",
+          "rate": 1.2
+        },
+        {
+          "id": 640,
+          "sourceCountry": "RO",
+          "destinationCountry": "BE",
+          "rate": 3.2
+        },
+        {
+          "id": 641,
+          "sourceCountry": "RO",
+          "destinationCountry": "BG",
+          "rate": 1.2
+        },
+        {
+          "id": 666,
+          "sourceCountry": "RO",
+          "destinationCountry": "CH",
+          "rate": 1.2
+        },
+        {
+          "id": 643,
+          "sourceCountry": "RO",
+          "destinationCountry": "CY",
+          "rate": 1.2
+        },
+        {
+          "id": 644,
+          "sourceCountry": "RO",
+          "destinationCountry": "CZ",
+          "rate": 1.2
+        },
+        {
+          "id": 649,
+          "sourceCountry": "RO",
+          "destinationCountry": "DE",
+          "rate": 3.2
+        },
+        {
+          "id": 645,
+          "sourceCountry": "RO",
+          "destinationCountry": "DK",
+          "rate": 1.2
+        },
+        {
+          "id": 646,
+          "sourceCountry": "RO",
+          "destinationCountry": "EE",
+          "rate": 1.2
+        },
+        {
+          "id": 664,
+          "sourceCountry": "RO",
+          "destinationCountry": "ES",
+          "rate": 1.2
+        },
+        {
+          "id": 647,
+          "sourceCountry": "RO",
+          "destinationCountry": "FI",
+          "rate": 1.2
+        },
+        {
+          "id": 648,
+          "sourceCountry": "RO",
+          "destinationCountry": "FR",
+          "rate": 2.5
+        },
+        {
+          "id": 667,
+          "sourceCountry": "RO",
+          "destinationCountry": "GB",
+          "rate": 1.2
+        },
+        {
+          "id": 650,
+          "sourceCountry": "RO",
+          "destinationCountry": "GR",
+          "rate": 1.2
+        },
+        {
+          "id": 642,
+          "sourceCountry": "RO",
+          "destinationCountry": "HR",
+          "rate": 1.2
+        },
+        {
+          "id": 651,
+          "sourceCountry": "RO",
+          "destinationCountry": "HU",
+          "rate": 1.2
+        },
+        {
+          "id": 654,
+          "sourceCountry": "RO",
+          "destinationCountry": "IE",
+          "rate": 1.2
+        },
+        {
+          "id": 652,
+          "sourceCountry": "RO",
+          "destinationCountry": "IT",
+          "rate": 2.4
+        },
+        {
+          "id": 655,
+          "sourceCountry": "RO",
+          "destinationCountry": "LT",
+          "rate": 1.2
+        },
+        {
+          "id": 656,
+          "sourceCountry": "RO",
+          "destinationCountry": "LU",
+          "rate": 1.2
+        },
+        {
+          "id": 653,
+          "sourceCountry": "RO",
+          "destinationCountry": "LV",
+          "rate": 1.2
+        },
+        {
+          "id": 657,
+          "sourceCountry": "RO",
+          "destinationCountry": "MT",
+          "rate": 1.2
+        },
+        {
+          "id": 658,
+          "sourceCountry": "RO",
+          "destinationCountry": "NL",
+          "rate": 2.1
+        },
+        {
+          "id": 659,
+          "sourceCountry": "RO",
+          "destinationCountry": "PL",
+          "rate": 1.2
+        },
+        {
+          "id": 660,
+          "sourceCountry": "RO",
+          "destinationCountry": "PT",
+          "rate": 1.2
+        },
+        {
+          "id": 661,
+          "sourceCountry": "RO",
+          "destinationCountry": "RO",
+          "rate": 1.2
+        },
+        {
+          "id": 665,
+          "sourceCountry": "RO",
+          "destinationCountry": "SE",
+          "rate": 1.2
+        },
+        {
+          "id": 663,
+          "sourceCountry": "RO",
+          "destinationCountry": "SI",
+          "rate": 1.2
+        },
+        {
+          "id": 662,
+          "sourceCountry": "RO",
+          "destinationCountry": "SK",
+          "rate": 1.2
+        }
+      ]
+    },
+    {
+      "sourceCountry": "SE",
+      "destinationCountries": [
+        {
+          "id": 755,
+          "sourceCountry": "SE",
+          "destinationCountry": "AT",
+          "rate": 1.2
+        },
+        {
+          "id": 756,
+          "sourceCountry": "SE",
+          "destinationCountry": "BE",
+          "rate": 1.2
+        },
+        {
+          "id": 757,
+          "sourceCountry": "SE",
+          "destinationCountry": "BG",
+          "rate": 1.2
+        },
+        {
+          "id": 782,
+          "sourceCountry": "SE",
+          "destinationCountry": "CH",
+          "rate": 1.2
+        },
+        {
+          "id": 759,
+          "sourceCountry": "SE",
+          "destinationCountry": "CY",
+          "rate": 1.2
+        },
+        {
+          "id": 760,
+          "sourceCountry": "SE",
+          "destinationCountry": "CZ",
+          "rate": 1.2
+        },
+        {
+          "id": 765,
+          "sourceCountry": "SE",
+          "destinationCountry": "DE",
+          "rate": 1.2
+        },
+        {
+          "id": 761,
+          "sourceCountry": "SE",
+          "destinationCountry": "DK",
+          "rate": 1.2
+        },
+        {
+          "id": 762,
+          "sourceCountry": "SE",
+          "destinationCountry": "EE",
+          "rate": 1.2
+        },
+        {
+          "id": 780,
+          "sourceCountry": "SE",
+          "destinationCountry": "ES",
+          "rate": 1.2
+        },
+        {
+          "id": 763,
+          "sourceCountry": "SE",
+          "destinationCountry": "FI",
+          "rate": 1.2
+        },
+        {
+          "id": 764,
+          "sourceCountry": "SE",
+          "destinationCountry": "FR",
+          "rate": 3.4
+        },
+        {
+          "id": 783,
+          "sourceCountry": "SE",
+          "destinationCountry": "GB",
+          "rate": 1.2
+        },
+        {
+          "id": 766,
+          "sourceCountry": "SE",
+          "destinationCountry": "GR",
+          "rate": 1.2
+        },
+        {
+          "id": 758,
+          "sourceCountry": "SE",
+          "destinationCountry": "HR",
+          "rate": 1.2
+        },
+        {
+          "id": 767,
+          "sourceCountry": "SE",
+          "destinationCountry": "HU",
+          "rate": 1.2
+        },
+        {
+          "id": 770,
+          "sourceCountry": "SE",
+          "destinationCountry": "IE",
+          "rate": 1.2
+        },
+        {
+          "id": 768,
+          "sourceCountry": "SE",
+          "destinationCountry": "IT",
+          "rate": 3.3
+        },
+        {
+          "id": 771,
+          "sourceCountry": "SE",
+          "destinationCountry": "LT",
+          "rate": 1.2
+        },
+        {
+          "id": 772,
+          "sourceCountry": "SE",
+          "destinationCountry": "LU",
+          "rate": 1.2
+        },
+        {
+          "id": 769,
+          "sourceCountry": "SE",
+          "destinationCountry": "LV",
+          "rate": 1.2
+        },
+        {
+          "id": 773,
+          "sourceCountry": "SE",
+          "destinationCountry": "MT",
+          "rate": 1.2
+        },
+        {
+          "id": 774,
+          "sourceCountry": "SE",
+          "destinationCountry": "NL",
+          "rate": 1.2
+        },
+        {
+          "id": 775,
+          "sourceCountry": "SE",
+          "destinationCountry": "PL",
+          "rate": 1.2
+        },
+        {
+          "id": 776,
+          "sourceCountry": "SE",
+          "destinationCountry": "PT",
+          "rate": 1.2
+        },
+        {
+          "id": 777,
+          "sourceCountry": "SE",
+          "destinationCountry": "RO",
+          "rate": 1.2
+        },
+        {
+          "id": 781,
+          "sourceCountry": "SE",
+          "destinationCountry": "SE",
+          "rate": 1.2
+        },
+        {
+          "id": 779,
+          "sourceCountry": "SE",
+          "destinationCountry": "SI",
+          "rate": 1.2
+        },
+        {
+          "id": 778,
+          "sourceCountry": "SE",
+          "destinationCountry": "SK",
+          "rate": 1.2
+        }
+      ]
+    },
+    {
+      "sourceCountry": "SI",
+      "destinationCountries": [
+        {
+          "id": 697,
+          "sourceCountry": "SI",
+          "destinationCountry": "AT",
+          "rate": 1.2
+        },
+        {
+          "id": 698,
+          "sourceCountry": "SI",
+          "destinationCountry": "BE",
+          "rate": 1.2
+        },
+        {
+          "id": 699,
+          "sourceCountry": "SI",
+          "destinationCountry": "BG",
+          "rate": 1.2
+        },
+        {
+          "id": 724,
+          "sourceCountry": "SI",
+          "destinationCountry": "CH",
+          "rate": 1.2
+        },
+        {
+          "id": 701,
+          "sourceCountry": "SI",
+          "destinationCountry": "CY",
+          "rate": 1.2
+        },
+        {
+          "id": 702,
+          "sourceCountry": "SI",
+          "destinationCountry": "CZ",
+          "rate": 3.3
+        },
+        {
+          "id": 707,
+          "sourceCountry": "SI",
+          "destinationCountry": "DE",
+          "rate": 2.8
+        },
+        {
+          "id": 703,
+          "sourceCountry": "SI",
+          "destinationCountry": "DK",
+          "rate": 1.2
+        },
+        {
+          "id": 704,
+          "sourceCountry": "SI",
+          "destinationCountry": "EE",
+          "rate": 1.2
+        },
+        {
+          "id": 722,
+          "sourceCountry": "SI",
+          "destinationCountry": "ES",
+          "rate": 1.2
+        },
+        {
+          "id": 705,
+          "sourceCountry": "SI",
+          "destinationCountry": "FI",
+          "rate": 1.2
+        },
+        {
+          "id": 706,
+          "sourceCountry": "SI",
+          "destinationCountry": "FR",
+          "rate": 2.6
+        },
+        {
+          "id": 725,
+          "sourceCountry": "SI",
+          "destinationCountry": "GB",
+          "rate": 1.2
+        },
+        {
+          "id": 708,
+          "sourceCountry": "SI",
+          "destinationCountry": "GR",
+          "rate": 1.2
+        },
+        {
+          "id": 700,
+          "sourceCountry": "SI",
+          "destinationCountry": "HR",
+          "rate": 1.2
+        },
+        {
+          "id": 709,
+          "sourceCountry": "SI",
+          "destinationCountry": "HU",
+          "rate": 1.2
+        },
+        {
+          "id": 712,
+          "sourceCountry": "SI",
+          "destinationCountry": "IE",
+          "rate": 1.2
+        },
+        {
+          "id": 710,
+          "sourceCountry": "SI",
+          "destinationCountry": "IT",
+          "rate": 1.2
+        },
+        {
+          "id": 713,
+          "sourceCountry": "SI",
+          "destinationCountry": "LT",
+          "rate": 1.2
+        },
+        {
+          "id": 714,
+          "sourceCountry": "SI",
+          "destinationCountry": "LU",
+          "rate": 1.2
+        },
+        {
+          "id": 711,
+          "sourceCountry": "SI",
+          "destinationCountry": "LV",
+          "rate": 1.2
+        },
+        {
+          "id": 715,
+          "sourceCountry": "SI",
+          "destinationCountry": "MT",
+          "rate": 1.2
+        },
+        {
+          "id": 716,
+          "sourceCountry": "SI",
+          "destinationCountry": "NL",
+          "rate": 1.2
+        },
+        {
+          "id": 717,
+          "sourceCountry": "SI",
+          "destinationCountry": "PL",
+          "rate": 1.2
+        },
+        {
+          "id": 718,
+          "sourceCountry": "SI",
+          "destinationCountry": "PT",
+          "rate": 1.2
+        },
+        {
+          "id": 719,
+          "sourceCountry": "SI",
+          "destinationCountry": "RO",
+          "rate": 1.2
+        },
+        {
+          "id": 723,
+          "sourceCountry": "SI",
+          "destinationCountry": "SE",
+          "rate": 1.2
+        },
+        {
+          "id": 721,
+          "sourceCountry": "SI",
+          "destinationCountry": "SI",
+          "rate": 4.1
+        },
+        {
+          "id": 720,
+          "sourceCountry": "SI",
+          "destinationCountry": "SK",
+          "rate": 1.2
+        }
+      ]
+    },
+    {
+      "sourceCountry": "SK",
+      "destinationCountries": [
+        {
+          "id": 668,
+          "sourceCountry": "SK",
+          "destinationCountry": "AT",
+          "rate": 1.2
+        },
+        {
+          "id": 669,
+          "sourceCountry": "SK",
+          "destinationCountry": "BE",
+          "rate": 2.9
+        },
+        {
+          "id": 670,
+          "sourceCountry": "SK",
+          "destinationCountry": "BG",
+          "rate": 1.2
+        },
+        {
+          "id": 695,
+          "sourceCountry": "SK",
+          "destinationCountry": "CH",
+          "rate": 4.4
+        },
+        {
+          "id": 672,
+          "sourceCountry": "SK",
+          "destinationCountry": "CY",
+          "rate": 1.2
+        },
+        {
+          "id": 673,
+          "sourceCountry": "SK",
+          "destinationCountry": "CZ",
+          "rate": 2.2
+        },
+        {
+          "id": 678,
+          "sourceCountry": "SK",
+          "destinationCountry": "DE",
+          "rate": 3.8
+        },
+        {
+          "id": 674,
+          "sourceCountry": "SK",
+          "destinationCountry": "DK",
+          "rate": 1.2
+        },
+        {
+          "id": 675,
+          "sourceCountry": "SK",
+          "destinationCountry": "EE",
+          "rate": 2.5
+        },
+        {
+          "id": 693,
+          "sourceCountry": "SK",
+          "destinationCountry": "ES",
+          "rate": 3.1
+        },
+        {
+          "id": 676,
+          "sourceCountry": "SK",
+          "destinationCountry": "FI",
+          "rate": 1.2
+        },
+        {
+          "id": 677,
+          "sourceCountry": "SK",
+          "destinationCountry": "FR",
+          "rate": 3.2
+        },
+        {
+          "id": 696,
+          "sourceCountry": "SK",
+          "destinationCountry": "GB",
+          "rate": 1.2
+        },
+        {
+          "id": 679,
+          "sourceCountry": "SK",
+          "destinationCountry": "GR",
+          "rate": 1.2
+        },
+        {
+          "id": 671,
+          "sourceCountry": "SK",
+          "destinationCountry": "HR",
+          "rate": 1.2
+        },
+        {
+          "id": 680,
+          "sourceCountry": "SK",
+          "destinationCountry": "HU",
+          "rate": 6.9
+        },
+        {
+          "id": 683,
+          "sourceCountry": "SK",
+          "destinationCountry": "IE",
+          "rate": 1.2
+        },
+        {
+          "id": 681,
+          "sourceCountry": "SK",
+          "destinationCountry": "IT",
+          "rate": 4.2
+        },
+        {
+          "id": 684,
+          "sourceCountry": "SK",
+          "destinationCountry": "LT",
+          "rate": 1.2
+        },
+        {
+          "id": 685,
+          "sourceCountry": "SK",
+          "destinationCountry": "LU",
+          "rate": 1.2
+        },
+        {
+          "id": 682,
+          "sourceCountry": "SK",
+          "destinationCountry": "LV",
+          "rate": 1.2
+        },
+        {
+          "id": 686,
+          "sourceCountry": "SK",
+          "destinationCountry": "MT",
+          "rate": 1.2
+        },
+        {
+          "id": 687,
+          "sourceCountry": "SK",
+          "destinationCountry": "NL",
+          "rate": 2.9
+        },
+        {
+          "id": 688,
+          "sourceCountry": "SK",
+          "destinationCountry": "PL",
+          "rate": 1.2
+        },
+        {
+          "id": 689,
+          "sourceCountry": "SK",
+          "destinationCountry": "PT",
+          "rate": 1.2
+        },
+        {
+          "id": 690,
+          "sourceCountry": "SK",
+          "destinationCountry": "RO",
+          "rate": 5.3
+        },
+        {
+          "id": 694,
+          "sourceCountry": "SK",
+          "destinationCountry": "SE",
+          "rate": 1.2
+        },
+        {
+          "id": 692,
+          "sourceCountry": "SK",
+          "destinationCountry": "SI",
+          "rate": 4.2
+        },
+        {
+          "id": 691,
+          "sourceCountry": "SK",
+          "destinationCountry": "SK",
+          "rate": 1.2
+        }
+      ]
+    }
+  ]
+}
