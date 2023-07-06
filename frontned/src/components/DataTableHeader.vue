@@ -1,5 +1,5 @@
 <template>
-    <thead class="DataTableHeader">
+    <thead class="DataTableHeader" data-testid="thead">
         <th class="DataTableHeader__cell"></th>
         <th v-for="header in headers" :key="header" :class="{'DataTableHeader__cell': true, 'DataTableHeader__cell--highlighted': header === storeHeaders.row}">
             {{ header }}

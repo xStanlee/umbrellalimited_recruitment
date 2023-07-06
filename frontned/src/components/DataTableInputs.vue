@@ -1,5 +1,5 @@
 <template>
-    <div class="DataTableInputs" >
+    <div class="DataTableInputs">
       <DataTableInput class="DataTableInputs__input" @onChange="sourceCountryHandler" label="Kraj zrodlowy" :items="serviceTable.records"/>
       <DataTableInput class="DataTableInputs__input" @onChange="destinationCountryHandler" label="Kraj docelowy" :items="serviceTable.records"/>
     </div>

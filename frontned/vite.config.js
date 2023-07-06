@@ -5,14 +5,15 @@ import vuetify from 'vite-plugin-vuetify'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  test: {
-    // Add cfg for tests
-  },
   plugins: [
     vue(),
     // Can remove unnecessary components
     vuetify({
       autoImport: true
     })
-  ]
+  ],
+  test: {
+    globals: true,
+    setupFiles: 'src/setupTests.js'
+  }
 })
