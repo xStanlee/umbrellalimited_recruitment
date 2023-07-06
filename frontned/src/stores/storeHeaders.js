@@ -1,26 +1,26 @@
-import { reactive } from "vue";
+import { reactive } from 'vue'
 
-//Unnecessary to use pinia for this
+// Unnecessary to use pinia for this
 export const storeHeaders = reactive({
-    row: "",
-    column: "",
-    errorId: null,
+  row: '',
+  column: '',
+  errorId: null,
 
-    setHeaders(row, column) {
-        this.row = row;
-        this.column = column;
-    },
+  setHeaders (row, column) {
+    this.row = row
+    this.column = column
+  },
 
-    resetHeaders() {
-        this.row = "";
-        this.column = "";
-    },
+  resetHeaders () {
+    this.row = ''
+    this.column = ''
+  },
 
-    setErrorId(id) {
-        this.errorId = id;
-    },
+  setErrorId (id) {
+    this.errorId = id
+  },
 
-    resetErrorId() {
-        this.errorId = null;
-    }
-});
+  resetErrorId () {
+    this.errorId = null
+  }
+})

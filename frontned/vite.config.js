@@ -10,9 +10,9 @@ export default defineConfig({
   },
   plugins: [
     vue(),
-    //Can remove unnecessary components
+    // Can remove unnecessary components
     vuetify({
-      autoImport: true,
+      autoImport: true
     })
   ]
 })
