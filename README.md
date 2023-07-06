@@ -56,7 +56,7 @@ kraju źródłowego (sourceCountry) i docelowego (destincationCountry)  :white_c
 - jesli podczas zapisu zmiany przez api wystapi blad nalezy dana komórkę oznaczyć jako błędną  :white_check_mark:
 
 Aplikacja powinna być napisana w taki sposób aby umożliwiać jej przegląd zarówno w przeglądarce jak i na urządzeniach **mobilnych** :white_check_mark:
-Aplikacja powinna zostać pokryta **testami** :x:.
+Aplikacja powinna zostać pokryta **testami** :white_check_mark:
 
 Do napisania aplikacji użyj VueJS.
 

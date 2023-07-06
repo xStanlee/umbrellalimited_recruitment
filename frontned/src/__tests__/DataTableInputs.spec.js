@@ -1,27 +1,26 @@
-import { describe, it, expect, vi } from "vitest";
-import { render, screen } from "@testing-library/vue";
+import { describe, it, vi } from 'vitest'
 
 vi.mock('../services/ServiceTable', async () => {
-    return {
-        serviceTable: {
-            records: []
-        }
+  return {
+    serviceTable: {
+      records: []
     }
+  }
 })
-describe("DataTableInput", () => {
-    it.todo("Fix an css import extension error for VCombobox.css component")
+describe('DataTableInput', () => {
+  it.todo('Fix an css import extension error for VCombobox.css component')
 
-    // it("renders an input", async () => {
-    //     render(DataTableInputs, {
-    //         global: {
-    //             provide: {
-    //                 'serviceTable.records': []
-    //             }
-    //         }
-    //     });
+  // it("renders an input", async () => {
+  //     render(DataTableInputs, {
+  //         global: {
+  //             provide: {
+  //                 'serviceTable.records': []
+  //             }
+  //         }
+  //     });
 
-    //     const inputs = await screen.findByTestId("data-table-inputs");
+  //     const inputs = await screen.findByTestId("data-table-inputs");
 
-    //     expect(inputs.nodeName).toBe("DIV");
-    // });
-});
+  //     expect(inputs.nodeName).toBe("DIV");
+  // });
+})

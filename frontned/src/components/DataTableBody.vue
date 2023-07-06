@@ -7,6 +7,7 @@
           'DataTableBody__cell--highlighted':
            rate.sourceCountry === storeHeaders.column,
         }"
+        data-testid="tbody-header"
       >
         {{ rate.sourceCountry }}
       </td>
@@ -16,6 +17,7 @@
         :key="`cellRate-${cellRate.id}`"
       >
         <DataTableCell
+          data-testid="tbody-cell"
           :rate="cellRate"
         />
       </td>
@@ -23,9 +25,9 @@
 </template>
 
 <script setup>
-import DataTableCell from "./DataTableCell.vue";
-import { storeHeaders } from "../stores/storeHeaders";
 import { computed } from "vue";
+import { storeHeaders } from "../stores/storeHeaders";
+import DataTableCell from "./DataTableCell.vue";
 
 const props = defineProps({
   rates: {
