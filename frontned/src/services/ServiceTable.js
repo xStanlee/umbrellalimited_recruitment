@@ -38,6 +38,28 @@ export class ServiceTable {
   #setRates(rates) {
     this.#sourcesRates = rates;
   }
+
+  sourceCountriesRates(filters, rates = this.#sourcesRates) {
+    return rates.filter(rate => {
+      return filters.includes(rate.sourceCountry)
+    })
+  }
+
+  destinationCountriesRates(filters, rates = this.#sourcesRates) {
+    return rates.map(({ destinationCountries, sourceCountry }) => {
+      const _rate = {
+        sourceCountry: '',
+        destinationCountries: [],
+      };
+      destinationCountries.forEach((rate) => {
+        if(filters.includes(rate.destinationCountry)) {
+          _rate.sourceCountry = sourceCountry;
+          _rate.destinationCountries.push(rate);
+        }
+      });
+      return _rate;
+    }).filter(Boolean);
+  }
 }
 
 // export Singleton

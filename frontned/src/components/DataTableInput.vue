@@ -30,8 +30,6 @@ const searchHandler = (val) => {
 
 <style scoped lang="scss">
 .DataTableInput {
-  &:not(:last-of-type) {
-    margin-right: 2rem;
-  }
+  width: 15rem;
 }
 </style>
