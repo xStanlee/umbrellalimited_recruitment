@@ -35,7 +35,7 @@ const props = defineProps({
 });
 
 const fat = computed(() => {
-  return props.rates.length < 2;
+  return props.rates.length === 2;
 })
 </script>
 

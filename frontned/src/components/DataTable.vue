@@ -5,7 +5,6 @@
     <v-data-table
       class="elevation-1"
       :height="height"
-      color="blue"
     >
       <DataTableHeader :headers="headers" />
       <DataTableBody :rates="rates" />
@@ -23,26 +22,25 @@ import { VDataTable } from "vuetify/labs/VDataTable";
 import DataTableHeader from "./DataTableHeader.vue";
 import DataTableBody from "./DataTableBody.vue";
 
+const emit = defineEmits(["onRateChange"]);
 const rates = ref(serviceTable.rates);
-
-const anything = (value) => {
-  console.log(value);
-}
 
 const headers = computed(() => {
   return storeFilters.destinationCountryFilters;
 });
 
 const height = computed(() => {
-  return rates.value.length < 10 ? (rates.value.length + 1) * 48 : 500;
+  return rates.value.length < 10 ? (rates.value.length + 1) * 48 : 480;
 })
 
 watch(storeFilters.sourceCountryFilters, newFilters => {
+  emit("onRateChange", (storeFilters.destinationCountryFilters.length + 1) * 64);
   rates.value = serviceTable.sourceCountriesRates(newFilters);
   rates.value = serviceTable.destinationCountriesRates(storeFilters.destinationCountryFilters, rates.value);
 }, { deep: true });
 
 watch(storeFilters.destinationCountryFilters, newFilters => {
+  emit("onRateChange", (newFilters.length + 1) * 64);
   rates.value = serviceTable.destinationCountriesRates(newFilters);
   rates.value = serviceTable.sourceCountriesRates(storeFilters.sourceCountryFilters, rates.value)
 }, { deep: true });

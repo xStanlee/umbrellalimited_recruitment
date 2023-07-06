@@ -67,10 +67,14 @@ const updateRateRecord = async(item) => {
 }
 
 const handleResponse = (response) => {
-    if (response.error) {
+    if (!response || response.error) {
         storeHeaders.setErrorId(rate.value.id);
+        rate.value.rate = spanRate;
         showErrorMessage('Error during update', 'Please try again. If the problem persists, contact the administrator.');
     } else {
+        if(storeHeaders.errorId === rate.value.id) {
+            storeHeaders.setErrorId(null);
+        }
         showSuccessMessage();
     }
 }
@@ -78,7 +82,6 @@ const handleResponse = (response) => {
 const resetCellState = (item) => {
     item.editing = false;
     storeHeaders.resetHeaders();
-    storeHeaders.resetErrorId();
 }
 
 const showSuccessMessage = () => {
