@@ -1,6 +1,7 @@
 <template>
   <v-combobox
-    @update:model-value="(event) => $emit('onChange', event)"
+    @update:search="searchHandler"
+    color="darkgreen"
     class="DataTableInput"
     :label="label"
     :items="items"
@@ -9,7 +10,7 @@
 </template>
 
 <script setup>
-defineProps({
+const props = defineProps({
   label: {
     type: String,
     required: true,
@@ -19,7 +20,12 @@ defineProps({
     required: true,
   },
 });
-defineEmits(["onChange"]);
+const emit = defineEmits(["onChange"]);
+
+const searchHandler = (val) => {
+  const _items = props.items.filter((item) => item.includes(val.toUpperCase()));
+  emit("onChange", _items);
+};
 </script>
 
 <style scoped lang="scss">

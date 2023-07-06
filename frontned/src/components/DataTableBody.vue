@@ -1,27 +1,23 @@
 <template>
-  <tr class="DataTableBody" v-for="(header, headerIndex) in headers" :key="header">
+  <tr class="DataTableBody" v-for="rate in rates" :key="rate.id">
       <td
         :class="{
           DataTableBody__cell: true,
           'DataTableBody__cell--fat': fat,
           'DataTableBody__cell--highlighted':
-            header === storeHeaders.column,
+           rate.sourceCountry === storeHeaders.column,
         }"
       >
-        {{ header }}
+        {{ rate.sourceCountry }}
       </td>
       
-      <td v-if="rates.length > 1"
-        v-for="(rate, rateIndex) in rates"
-        :key="`${rate.sourceCountry}_${header}`"
+      <td
+        v-for="cellRate in rate.destinationCountries"
+        :key="`cellRate-${cellRate.id}`"
       >
         <DataTableCell
-          :rate="rates[headerIndex].destinationCountries[rateIndex]"
+          :rate="cellRate"
         />
-      </td>
-
-      <td v-else>
-        <DataTableCell :rate="rates[0].destinationCountries[headerIndex]" :fat="fat" />
       </td>
     </tr>
 </template>
@@ -32,10 +28,6 @@ import { storeHeaders } from "../stores/storeHeaders";
 import { computed } from "vue";
 
 const props = defineProps({
-  headers: {
-    type: Array,
-    required: true,
-  },
   rates: {
     type: Array,
     required: true,
@@ -43,7 +35,7 @@ const props = defineProps({
 });
 
 const fat = computed(() => {
-  return props.headers.length < 2 && props.rates.length < 2;
+  return props.rates.length < 2;
 })
 </script>
 
@@ -66,10 +58,9 @@ const fat = computed(() => {
     }
 
     &:first-child {
-      position: absolute;
+      position: sticky;
       left: 0;
       background-color: #fff;
-      overflow: scroll;
     }
   }
 }
